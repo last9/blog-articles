@@ -1,6 +1,6 @@
 # blog-articles
 
-All [Last9.io](https://last9.io) blog articles
+All the [Last9 blog](https://last9.io/blog) articles
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
