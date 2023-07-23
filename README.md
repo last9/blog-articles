@@ -1,6 +1,4 @@
-# blog-articles
-
-All the [Last9 blog](https://last9.io/blog) articles
+All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.io/blog/subscribe) to the blog to get the latest articles in your inbox.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
