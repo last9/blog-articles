@@ -8,3 +8,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [OpenTelemetry for dummies: ELI5](https://last9.io/blog/opentelemetry-for-dummies-eli5/)
 - [OpenTelemetry vs. Prometheus](https://last9.io/blog/opentelemetry-vs-prometheus/)
 <!-- BLOG-POST-LIST:END -->
+- [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
