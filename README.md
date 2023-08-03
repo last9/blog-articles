@@ -13,3 +13,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [How to restart Kubernetes pods with Kubectl](https://last9.io/blog/how-to-restart-kubernetes-pods-with-kubectl-tutorial/)
 - [Prometheus best practices for writing exporters](https://last9.io/blog/best-practices-using-and-writing-prometheus-exporters/)
 - [Service Mesh Comparison](https://last9.io/blog/comparing-popular-service-mesh-offerings/)
+- [Prometheus vs Cortex](https://last9.io/blog/prometheus-vs-cortex/)
