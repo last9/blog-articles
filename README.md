@@ -14,3 +14,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Prometheus best practices for writing exporters](https://last9.io/blog/best-practices-using-and-writing-prometheus-exporters/)
 - [Service Mesh Comparison](https://last9.io/blog/comparing-popular-service-mesh-offerings/)
 - [Prometheus vs Cortex](https://last9.io/blog/prometheus-vs-cortex/)
+- [What is P95](https://last9.io/blog/your-percentiles-are-incorrect-p99-of-the-times/)
