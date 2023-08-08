@@ -17,3 +17,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [What is P95](https://last9.io/blog/your-percentiles-are-incorrect-p99-of-the-times/)
 - [What is Prometheus](https://last9.io/blog/what-is-prometheus/)
 - [Implementing service level objectives](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
+- [Prometheus Cardinality](https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/)
