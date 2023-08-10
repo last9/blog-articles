@@ -18,3 +18,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [What is Prometheus](https://last9.io/blog/what-is-prometheus/)
 - [Implementing service level objectives](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
 - [Prometheus Cardinality](https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/)
+- [Latency SLO](https://last9.io/blog/latency-slo/)
