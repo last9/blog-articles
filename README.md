@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Observability vs. Telemetry vs. Monitoring](https://last9.io/blog/observability-vs-telemetry-vs-monitoring/)
+- [Thanos vs. VictoriaMetrics](https://last9.io/blog/thanos-vs-victoriametrics/)
 - [1979, a nuclear accident, and SRE](https://last9.io/blog/1979-a-nuclear-accident-and-sre/)
 - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 - [How we tame high cardinality in time series databases: Part 1](https://last9.io/blog/how-to-make-high-cardinality-work-in-time-series-databases-part-1/)
-- [OpenTelemetry for dummies: ELI5](https://last9.io/blog/opentelemetry-for-dummies-eli5/)
-- [OpenTelemetry vs. Prometheus](https://last9.io/blog/opentelemetry-vs-prometheus/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
