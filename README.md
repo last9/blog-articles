@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Standardize PromQL with Macros in Levitate](https://last9.io/blog/standardize-promql-with-macros/)
+- [PromQL Macros in Levitate](https://last9.io/blog/standardize-promql-with-macros/)
 - [GCP Managed Service For Prometheus vs. Levitate](https://last9.io/blog/levitate-vs-google-managed-prometheus/)
 - [A case for Observability outside engineering teams](https://last9.io/blog/a-case-for-observability-outside-engineering-teams/)
 - [Understanding the Rasmussen model for failures](https://last9.io/blog/understanding-the-rasmussen-model-for-failures/)
