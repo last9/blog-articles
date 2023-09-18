@@ -20,3 +20,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Prometheus Cardinality](https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/)
 - [Latency SLO](https://last9.io/blog/latency-slo/)
 - [DORA Metrics](https://last9.io/blog/dora-metrics/)
+- [Golang Stringer](https://last9.io/blog/golang-stringer-tool/)
