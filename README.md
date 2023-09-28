@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry vs. OpenTracing](https://last9.io/blog/opentelemetry-vs-opentracing/)
 - [This arctic winter — time to repay your tech debt](https://last9.io/blog/this-arctic-winter-time-to-repay-your-tech-debt/)
 - [Webinar: Internals of how we handle High Cardinality with Levitate](https://last9.io/blog/webinar-internals-how-we-tame-high-cardinality/)
 - [Levitate - Last9’s managed TSDB is now available on the AWS Marketplace](https://last9.io/blog/levitate-last9s-managed-tsdb-is-now-available-on-the-aws-marketplace/)
 - [PromQL Macros in Levitate](https://last9.io/blog/standardize-promql-with-macros/)
-- [GCP Managed Service For Prometheus vs. Levitate](https://last9.io/blog/levitate-vs-google-managed-prometheus/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
