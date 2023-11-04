@@ -6,6 +6,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Monitor Google Cloud Functions using Pushgateway and Levitate](https://last9.io/blog/monitor-google-cloud-functions-using-prometheus-and-pushgateway/)
 - [Challenges with Running Prometheus at Scale](https://last9.io/blog/challenges-with-running-prometheus-at-scale/)
 - [OpenTelemetry vs. OpenTracing](https://last9.io/blog/opentelemetry-vs-opentracing/)
+- [This arctic winter — time to repay your tech debt](https://last9.io/blog/this-arctic-winter-time-to-repay-your-tech-debt/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
