@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Observability from the lens of Radar and a Black Box](https://last9.io/blog/radar-and-black-boxes-for-software-observability/)
+- [Software Observability from the Lens of Radar and a Black Box](https://last9.io/blog/radar-and-black-boxes-for-software-observability/)
 - [Mastering Prometheus Relabeling: A Comprehensive Guide](https://last9.io/blog/mastering-prometheus-relabeling-a-comprehensive-guide/)
 - [Real-Time Canary Deployment Tracking with Argo CD &amp; Levitate](https://last9.io/blog/real-time-canary-deployment-tracking-with-argo-cd-levitate/)
 - [Monitor Google Cloud Functions using Pushgateway and Levitate](https://last9.io/blog/monitor-google-cloud-functions-using-prometheus-and-pushgateway/)
