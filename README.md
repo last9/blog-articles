@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SaaS Monitoring with Levitate](https://last9.io/blog/saas-monitoring-with-levitate/)
 - [Troubleshooting Common Prometheus Pitfalls: Cardinality, Resource Utilization, and Storage Challenges](https://last9.io/blog/troubleshooting-common-prometheus-pitfalls-cardinality-resource-utilization-and-storage-challenges/)
 - [OpenTelemetry vs. OpenCensus](https://last9.io/blog/opentelemetry-vs-opencensus/)
 - [Downsampling &amp; Aggregating Metrics in Prometheus: Practical Strategies to Manage Cardinality and Query Performance](https://last9.io/blog/downsampling-aggregating-metrics-in-prometheus-practical-strategies-to-manage-cardinality-and-query-performance/)
 - [Software Observability from the Lens of Radar and a Black Box](https://last9.io/blog/radar-and-black-boxes-for-software-observability/)
-- [Mastering Prometheus Relabeling: A Comprehensive Guide](https://last9.io/blog/mastering-prometheus-relabeling-a-comprehensive-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
