@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Instrument Java Applications using OpenTelemetry - Tutorial &amp; Best Practices](https://last9.io/blog/how-to-instrument-java-applications-using-opentelemetry-tutorial-best-practices/)
 - [How To Instrument Golang app using OpenTelemetry - Tutorial &amp; Best Practices](https://last9.io/blog/how-to-instrument-golang-app-using-opentelemetry-tutorial-best-practices/)
 - [Building Logs to Metrics pipelines with Vector](https://last9.io/blog/building-logs-to-metrics-pipelines-with-vector/)
 - [SaaS Monitoring with Levitate](https://last9.io/blog/saas-monitoring-with-levitate/)
 - [Troubleshooting Common Prometheus Pitfalls: Cardinality, Resource Utilization, and Storage Challenges](https://last9.io/blog/troubleshooting-common-prometheus-pitfalls-cardinality-resource-utilization-and-storage-challenges/)
-- [OpenTelemetry vs. OpenCensus](https://last9.io/blog/opentelemetry-vs-opencensus/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
