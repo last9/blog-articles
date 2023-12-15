@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The unresolved cost of High Cardinality](https://last9.io/blog/the-unresolved-cost-of-high-cardinality/)
 - [Prometheus Metrics Types - A Deep Dive](https://last9.io/blog/prometheus-metrics-types-a-deep-dive/)
 - [Monitor Cloudflare Workers using Prometheus Exporter](https://last9.io/blog/monitor-cloudflare-workers-using-prometheus-exporter/)
 - [Why you need a Time Series Data Warehouse](https://last9.io/blog/why-you-need-a-time-series-data-warehouse/)
 - [How to Instrument Java Applications using OpenTelemetry - Tutorial &amp; Best Practices](https://last9.io/blog/how-to-instrument-java-applications-using-opentelemetry-tutorial-best-practices/)
-- [How To Instrument Golang app using OpenTelemetry - Tutorial &amp; Best Practices](https://last9.io/blog/how-to-instrument-golang-app-using-opentelemetry-tutorial-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
