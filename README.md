@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus Federation ⏤ Scaling Prometheus Guide](https://last9.io/blog/prometheus-federation-guide/)
 - [Why your monitoring costs are high](https://last9.io/blog/why-your-monitoring-costs-are-high/)
 - [The unresolved cost of High Cardinality](https://last9.io/blog/the-unresolved-cost-of-high-cardinality/)
 - [Prometheus Metrics Types - A Deep Dive](https://last9.io/blog/prometheus-metrics-types-a-deep-dive/)
 - [Monitor Cloudflare Workers using Prometheus Exporter](https://last9.io/blog/monitor-cloudflare-workers-using-prometheus-exporter/)
-- [Why you need a Time Series Data Warehouse](https://last9.io/blog/why-you-need-a-time-series-data-warehouse/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
