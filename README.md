@@ -28,3 +28,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Real-Time Canary Deployment Tracking with Argo CD &amp; Levitate](https://last9.io/blog/real-time-canary-deployment-tracking-with-argo-cd-levitate/)
 - [Monitor Google Cloud Functions using Pushgateway and Levitate](https://last9.io/blog/monitor-google-cloud-functions-using-prometheus-and-pushgateway/)
 - [Challenges with Running Prometheus at Scale](https://last9.io/blog/challenges-with-running-prometheus-at-scale/)
+- [Prometheus Downsampling](https://last9.io/blog/downsampling-aggregating-metrics-in-prometheus-practical-strategies-to-manage-cardinality-and-query-performance/)
