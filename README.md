@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenCost with Levitate](https://last9.io/blog/opencost-with-levitate/)
+- [Controlling Kubernetes Costs with OpenCost and Levitate](https://last9.io/blog/opencost-with-levitate/)
 - [Prometheus Federation ⏤ Scaling Prometheus Guide](https://last9.io/blog/prometheus-federation-guide/)
 - [Why your monitoring costs are high](https://last9.io/blog/why-your-monitoring-costs-are-high/)
 - [The unresolved cost of High Cardinality](https://last9.io/blog/the-unresolved-cost-of-high-cardinality/)
