@@ -30,3 +30,4 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Challenges with Running Prometheus at Scale](https://last9.io/blog/challenges-with-running-prometheus-at-scale/)
 - [Prometheus Downsampling](https://last9.io/blog/downsampling-aggregating-metrics-in-prometheus-practical-strategies-to-manage-cardinality-and-query-performance/)
 - [Prometheus Metrics Types](https://last9.io/blog/prometheus-metrics-types-a-deep-dive/)
+- [opentelemetry-javaagent](https://last9.io/blog/how-to-instrument-java-applications-using-opentelemetry-tutorial-best-practices/)
