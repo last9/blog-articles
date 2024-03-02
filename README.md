@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cricket Scale Series #1: How do you build resilient systems to manage the IPL with 30+ million concurrent users?](https://last9.io/events/cricket-scale-series-1-how-do-you-build-resilient-systems-to-manage-the-ipl-with-30-million-concurrent-users/)
 - [A checklist to choose a monitoring system](https://last9.io/blog/a-checklist-to-choose-a-monitoring-system/)
 - [Controlling Kubernetes Costs with OpenCost and Levitate](https://last9.io/blog/opencost-with-levitate/)
 - [Prometheus Federation ⏤ Scaling Prometheus Guide](https://last9.io/blog/prometheus-federation-guide/)
 - [Why your monitoring costs are high](https://last9.io/blog/why-your-monitoring-costs-are-high/)
-- [The unresolved cost of High Cardinality](https://last9.io/blog/the-unresolved-cost-of-high-cardinality/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
