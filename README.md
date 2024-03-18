@@ -3,7 +3,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Join Last9 at DevOps Conclave](https://last9.io/events/join-last9-at-devops-conclave-blr-2024/)
-- [Join Last9 at SRECon Americas](https://last9.io/events/join-last9-at-srecon-americas-2024/)
+- [Join Last9 at SRECon 2024 Americas](https://last9.io/events/join-last9-at-srecon-americas-2024/)
 - [Software Monitoring — Stuck in the 00s](https://last9.io/blog/software-monitoring-stuck/)
 - [Cricket Scale Series #2: How to scale events in real-time for IPL for 300+ Million users](https://last9.io/events/cricket-scale-series-2/)
 - [Cricket Scale e01 — Ashutosh Agrawal](https://last9.io/blog/cricket-scale-e01-ashutosh-agrawal/)
