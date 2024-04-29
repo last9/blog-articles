@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Back to the Future: The R-C-A of alerting](https://last9.io/blog/back-to-the-future-the-r-c-a-of-alerting/)
 - [Launching Alert Studio](https://last9.io/blog/launching-alert-studio/)
 - [Everything in software monitoring is dead, apparently](https://last9.io/blog/everything-in-software-monitoring-is-dead-apparently/)
 - [Join Last9 at DevOps Conclave](https://last9.io/events/join-last9-at-devops-conclave-blr-2024/)
 - [Join Last9 at SRECon 2024 Americas](https://last9.io/events/join-last9-at-srecon-americas-2024/)
-- [Software Monitoring — Stuck in the 00s](https://last9.io/blog/software-monitoring-stuck/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
