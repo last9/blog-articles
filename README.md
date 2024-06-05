@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert Monitor’s Group By with semantic mapping to reduce instrumentation changes](https://last9.io/changelog/alert-monitors-group-by-with-semantic-mapping-to-reduce-instrumentation-changes/)
+- [Dynamic Annotations: Unlocking routing links, detailed alert descriptions, and more](https://last9.io/changelog/dynamic-annotations-unlocking-routing-links-detailed-alert-descriptions-and-more/)
+- [Everything you need to know about High Cardinality](https://last9.io/blog/everything-you-need-to-know-about-high-cardinality/)
+- [Group Labels: Inherit labels across indicators of an Alert Group](https://last9.io/changelog/group-labels-inherit-labels-across-indicators-of-an-alert-group/)
 - [Back to the Future: The R-C-A of alerting](https://last9.io/blog/back-to-the-future-the-r-c-a-of-alerting/)
-- [Launching Alert Studio](https://last9.io/blog/launching-alert-studio/)
-- [Everything in software monitoring is dead, apparently](https://last9.io/blog/everything-in-software-monitoring-is-dead-apparently/)
-- [Join Last9 at DevOps Conclave](https://last9.io/events/join-last9-at-devops-conclave-blr-2024/)
-- [Join Last9 at SRECon 2024 Americas](https://last9.io/events/join-last9-at-srecon-americas-2024/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
