@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What needs to change in software monitoring?](https://last9.io/blog/what-needs-to-change-in-software-monitoring/)
 - [How we reduced monitoring costs and deprecated Thanos for Replit](https://last9.io/blog/how-we-reduced-monitoring-costs-and-deprecated-thanos-for-replit/)
 - [Alert Monitor’s Group By with semantic mapping to reduce instrumentation changes](https://last9.io/changelog/alert-monitors-group-by-with-semantic-mapping-to-reduce-instrumentation-changes/)
 - [Dynamic Annotations: Unlocking routing links, detailed alert descriptions, and more](https://last9.io/changelog/dynamic-annotations-unlocking-routing-links-detailed-alert-descriptions-and-more/)
 - [Everything you need to know about High Cardinality](https://last9.io/blog/everything-you-need-to-know-about-high-cardinality/)
-- [Group Labels: Inherit labels across indicators of an Alert Group](https://last9.io/changelog/group-labels-inherit-labels-across-indicators-of-an-alert-group/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
