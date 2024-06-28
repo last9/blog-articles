@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Prometheus Toolkit — the most apt companion to kickstart your monitoring](https://last9.io/blog/announcing-awesome-prometheus-toolkit/)
 - [Building monitoring by auto discovering resources for 70+ microservices](https://last9.io/blog/building-monitoring-by-auto-discovering-resources-for-70-microservices/)
 - [What needs to change in software monitoring?](https://last9.io/blog/what-needs-to-change-in-software-monitoring/)
 - [How we reduced monitoring costs and deprecated Thanos for Replit](https://last9.io/blog/how-we-reduced-monitoring-costs-and-deprecated-thanos-for-replit/)
 - [Alert Monitor’s Group By with semantic mapping to reduce instrumentation changes](https://last9.io/changelog/alert-monitors-group-by-with-semantic-mapping-to-reduce-instrumentation-changes/)
-- [Dynamic Annotations: Unlocking routing links, detailed alert descriptions, and more](https://last9.io/changelog/dynamic-annotations-unlocking-routing-links-detailed-alert-descriptions-and-more/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
