@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [The most important aspect of software monitoring](https://last9.io/blog/the-most-important-aspect-of-software-monitoring/)
 - [Awesome Prometheus Toolkit — the most apt companion to kickstart your monitoring](https://last9.io/blog/announcing-awesome-prometheus-toolkit/)
+- [Control for teams using IaC to avoid out-of-sync changes](https://last9.io/changelog/control-for-teams-using-iac-to-avoid-out-of-sync-changes/)
 - [Building monitoring by auto discovering resources for 70+ microservices](https://last9.io/blog/building-monitoring-by-auto-discovering-resources-for-70-microservices/)
 - [What needs to change in software monitoring?](https://last9.io/blog/what-needs-to-change-in-software-monitoring/)
-- [How we reduced monitoring costs and deprecated Thanos for Replit](https://last9.io/blog/how-we-reduced-monitoring-costs-and-deprecated-thanos-for-replit/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
