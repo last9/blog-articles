@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Anatomy of a Modern Observability System: From Data Collection to Application](https://last9.io/blog/modern-observability-system/)
 - [Advanced OpenTelemetry Configurations: Sampling, Filtering, and Data Enrichment](https://last9.io/blog/opentelemetry-configurations-filtering-sampling-enrichment/)
 - [Control Plane: A centralized place to manage your data and its settings](https://last9.io/changelog/control-plane-a-centralized-place-to-manage-your-data-and-its-settings/)
 - [Think Data Warehouse, NOT Database.](https://last9.io/blog/think-data-warehouse-not-database/)
 - [Whitespace in OTLP headers and OpenTelemetry Python SDK](https://last9.io/blog/whitespace-in-otlp-headers-and-opentelemetry-python-sdk/)
-- [The most important aspect of software monitoring](https://last9.io/blog/the-most-important-aspect-of-software-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
