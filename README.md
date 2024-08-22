@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [OpenTelemetry vs. Traditional APM Tools: A Comparative Analysis](https://last9.io/blog/opentelemetry-vs-traditional-apm-tools/)
 - [The Anatomy of a Modern Observability System: From Data Collection to Application](https://last9.io/blog/modern-observability-system/)
+- [Redacting Sensitive Data in OpenTelemetry Collector](https://last9.io/blog/redacting-sensitive-data-in-opentelemetry-collector/)
 - [Advanced OpenTelemetry Configurations: Sampling, Filtering, and Data Enrichment](https://last9.io/blog/opentelemetry-configurations-filtering-sampling-enrichment/)
 - [Control Plane: A centralized place to manage your data and its settings](https://last9.io/changelog/control-plane-a-centralized-place-to-manage-your-data-and-its-settings/)
-- [Convert OpenTelemetry Traces to Metrics using SpanMetrics Connector](https://last9.io/blog/convert-opentelemetry-traces-to-metrics-using-spanconnector/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
