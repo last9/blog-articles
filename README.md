@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Observability Best Practices for Microservices in 2024](https://last9.io/blog/observability-best-practices/)
 - [A Deep Dive into Log Aggregation Tools](https://last9.io/blog/log-aggregation-tools/)
 - [Using Kubectl Logs: Guide to Viewing Kubernetes Pod Logs](https://last9.io/blog/using-kubectl-logs-guide-to-viewing-kubernetes-pod-logs/)
 - [OpenTelemetry vs. Traditional APM Tools: A Comparative Analysis](https://last9.io/blog/opentelemetry-vs-traditional-apm-tools/)
 - [The Anatomy of a Modern Observability System: From Data Collection to Application](https://last9.io/blog/modern-observability-system/)
-- [Redacting Sensitive Data in OpenTelemetry Collector](https://last9.io/blog/redacting-sensitive-data-in-opentelemetry-collector/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
