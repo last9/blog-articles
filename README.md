@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Hot Reload for OpenTelemetry Collector: A Step-by-Step Guide](https://last9.io/blog/hot-reload-for-opentelemetry-collector/)
 - [OpenTelemetry Filelog Receiver: Collecting Logs from Kubernetes](https://last9.io/blog/opentelemetry-filelog-receiver-kubernetes-log-collection/)
 - [Python Logging Best Practices: The Ultimate Guide](https://last9.io/blog/python-logging-best-practices/)
 - [2024&#39;s Best Cloud Monitoring Tools: Updated Insights](https://last9.io/blog/best-cloud-monitoring-tools/)
 - [Top Observability Best Practices for Microservices in 2024](https://last9.io/blog/observability-best-practices/)
-- [Top Splunk Alternatives for 2024: A Comprehensive Guide](https://last9.io/blog/top-splunk-alternatives-for-2024-a-comprehensive-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
