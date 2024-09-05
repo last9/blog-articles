@@ -3,10 +3,10 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Instrumenting fasthttp with OpenTelemetry: A Comprehensive Guide](https://last9.io/blog/instrumenting-fasthttp-with-opentelemetry/)
+- [PromQL: A Developer&#39;s Guide to Prometheus Query Language](https://last9.io/blog/guide-to-prometheus-query-language/)
 - [PromQL for Beginners: Getting Started with Prometheus Query Language](https://last9.io/blog/promql-for-beginners-getting-started-with-prometheus-query-language/)
 - [Implementing Hot Reload for OpenTelemetry Collector: A Step-by-Step Guide](https://last9.io/blog/hot-reload-for-opentelemetry-collector/)
 - [OpenTelemetry Filelog Receiver: Collecting Logs from Kubernetes](https://last9.io/blog/opentelemetry-filelog-receiver-kubernetes-log-collection/)
-- [Python Logging Best Practices: The Ultimate Guide](https://last9.io/blog/python-logging-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
