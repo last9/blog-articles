@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microservices Monitoring with the RED Method: A Developer&#39;s Guide](https://last9.io/blog/monitoring-with-red-method/)
 - [Join Last9 at PromCon EU 2024!](https://last9.io/events/join-last9-at-promcon-eu-2024/)
 - [kube-state-metrics: Your Complete Guide to Simplifying Kubernetes Observability](https://last9.io/blog/kube-state-metrics/)
 - [Instrumenting fasthttp with OpenTelemetry: A Comprehensive Guide](https://last9.io/blog/instrumenting-fasthttp-with-opentelemetry/)
 - [PromQL: A Developer&#39;s Guide to Prometheus Query Language](https://last9.io/blog/guide-to-prometheus-query-language/)
-- [PromQL for Beginners: Getting Started with Prometheus Query Language](https://last9.io/blog/promql-for-beginners-getting-started-with-prometheus-query-language/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
