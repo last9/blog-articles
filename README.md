@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PromQL Cheat Sheet: Must-Know PromQL Queries](https://last9.io/blog/promql-cheat-sheet/)
 - [Streaming Aggregation: Real-Time Data Processing in 2024](https://last9.io/blog/streaming-aggregation/)
 - [OpenTelemetry Protocol &lpar;OTLP&rpar;: A Deep Dive into Observability](https://last9.io/blog/opentelemetry-protocol-otlp/)
 - [Microservices Monitoring with the RED Method: A Developer&#39;s Guide](https://last9.io/blog/monitoring-with-red-method/)
 - [Join Last9 at PromCon EU 2024!](https://last9.io/events/join-last9-at-promcon-eu-2024/)
-- [kube-state-metrics: Your Complete Guide to Simplifying Kubernetes Observability](https://last9.io/blog/kube-state-metrics/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
