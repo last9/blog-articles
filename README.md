@@ -6,7 +6,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Developer&#39;s Guide to Installing OpenTelemetry Collector](https://last9.io/blog/developers-guide-to-installing-opentelemetry-collector/)
 - [Top 10 Platform Engineering Tools in 2024](https://last9.io/blog/top-10-platform-engineering-tools-in-2024/)
 - [PromCon 2024 — Day 2](https://last9.io/blog/promcon-2024-day-2-recap/)
-- [PromCon 2024 — Day 1](https://last9.io/blog/promcon-2024-day-1-recap/)
+- [Prometheus Operator Guide](https://last9.io/blog/prometheus-operator-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
