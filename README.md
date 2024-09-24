@@ -4,7 +4,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [Adding Cluster Labels to Kubernetes Metrics](https://last9.io/blog/adding-cluster-labels-to-kubernetes-metrics/)
 - [How to Use Jaeger with OpenTelemetry](https://last9.io/blog/how-to-use-jaeger-with-opentelemetry/)
-- [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
+- [Prometheus Alternatives: Monitoring Tools You Should Know](https://last9.io/blog/prometheus-alternatives/)
 - [Optimizing Prometheus Remote Write Performance: Guide](https://last9.io/blog/optimizing-prometheus-remote-write-performance-guide/)
 - [Identify Root Spans in Otel Collector](https://last9.io/blog/identify-root-spans-in-otel-collector/)
 <!-- BLOG-POST-LIST:END -->
