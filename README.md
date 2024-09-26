@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tail Latency: A Critical Factor in Large-scale Distributed Systems](https://last9.io/blog/tail-latency/)
 - [Join Last9 at SRECon Europe 2024!](https://last9.io/events/join-last9-at-srecon-europe-2024/)
 - [Prometheus Rate Function: A Practical Guide to Using It](https://last9.io/blog/prometheus-rate-function/)
 - [Join Last9 at AWS re: Invent 2024!](https://last9.io/events/join-last9-at-aws-re-invent-2024/)
 - [OpenTelemetry Collector: The Complete Guide](https://last9.io/blog/opentelemetry-collector-guide/)
-- [Adding Cluster Labels to Kubernetes Metrics](https://last9.io/blog/adding-cluster-labels-to-kubernetes-metrics/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
