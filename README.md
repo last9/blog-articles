@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Monitoring Explained: A Developer&#39;s Guide](https://last9.io/blog/what-is-synthetic-monitoring/)
 - [What are OpenTelemetry Metrics? A Comprehensive Guide](https://last9.io/blog/opentelemetry-metrics/)
 - [How to Monitor Ephemeral Storage Metrics in Kubernetes](https://last9.io/blog/monitor-ephemeral-storage-metrics-in-kubernetes/)
 - [Prometheus Recording Rules: A Developer&#39;s Guide to Query Optimization](https://last9.io/blog/prometheus-recording-rules/)
 - [Tail Latency: A Critical Factor in Large-scale Distributed Systems](https://last9.io/blog/tail-latency/)
-- [Join Last9 at SRECon Europe 2024!](https://last9.io/events/join-last9-at-srecon-europe-2024/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
