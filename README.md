@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Datadog Alternatives Worth Considering in 2024](https://last9.io/blog/8-datadog-alternatives-for-2024)
 - [Join Last9 at the 3rd Annual India DevOps Show 2024!](https://last9.io/events/join-last9-at-the-devops-show-2024)
 - [High Availability in Prometheus: Best Practices and Tips](https://last9.io/blog/high-availability-in-prometheus)
 - [Synthetic Monitoring Explained: A Developer&#39;s Guide](https://last9.io/blog/what-is-synthetic-monitoring)
 - [What are OpenTelemetry Metrics? A Comprehensive Guide](https://last9.io/blog/opentelemetry-metrics)
-- [How to Monitor Ephemeral Storage Metrics in Kubernetes](https://last9.io/blog/monitor-ephemeral-storage-metrics-in-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
