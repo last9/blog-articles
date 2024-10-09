@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Application Performance Monitoring &lpar;APM&rpar;](https://last9.io/blog/application-performance-monitoring/)
 - [Docker Monitoring with Prometheus: A Step-by-Step Guide](https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/)
 - [Join Last9 at KubeCon + CloudNativeCon North America 2024!](https://last9.io/events/join-last9-at-kubecon-2024/)
 - [8 Datadog Alternatives Worth Considering in 2024](https://last9.io/blog/8-datadog-alternatives-for-2024/)
 - [Join Last9 at the 3rd Annual India DevOps Show 2024!](https://last9.io/events/join-last9-at-the-devops-show-2024/)
-- [High Availability in Prometheus: Best Practices and Tips](https://last9.io/blog/high-availability-in-prometheus/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
