@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Join Last9 for the October Observability Meetup!](https://last9.io/events/join-last9-for-the-october-observability-meetup/)
 - [Join Last9 at KubeCon + CloudNativeCon India 2024!](https://last9.io/events/join-last9-at-kubecon-cloudnativecon-india-2024/)
 - [OTEL Collector Monitoring: Best Practices &amp; Guide](https://last9.io/blog/otel-collector-monitoring/)
 - [The Ultimate Guide to Application Performance Monitoring &lpar;APM&rpar;](https://last9.io/blog/application-performance-monitoring/)
 - [Docker Monitoring with Prometheus: A Step-by-Step Guide](https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/)
+- [Join Last9 at KubeCon + CloudNativeCon North America 2024!](https://last9.io/events/join-last9-at-kubecon-2024/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
