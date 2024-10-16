@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [The Developer’s Handbook to Centralized Logging](https://last9.io/blog/the-developers-handbook-to-centralized-logging/)
 - [kubectl exec: Commands, Examples, and Best Practices](https://last9.io/blog/kubectl-exec-commands-examples-and-best-practices/)
+- [Log Anything vs Log Everything](https://last9.io/blog/log-anything-vs-log-everything/)
 - [Join Last9 at KubeCon + CloudNativeCon India 2024!](https://last9.io/events/join-last9-at-kubecon-cloudnativecon-india-2024/)
 - [OTEL Collector Monitoring: Best Practices &amp; Guide](https://last9.io/blog/otel-collector-monitoring/)
-- [The Ultimate Guide to Application Performance Monitoring &lpar;APM&rpar;](https://last9.io/blog/application-performance-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
