@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PrometheusRemoteWriteExporter: A Comprehensive Guide](https://last9.io/blog/prometheusremotewriteexporter-a-comprehensive-guide/)
+- [Prometheus RemoteWrite Exporter: A Comprehensive Guide](https://last9.io/blog/prometheusremotewriteexporter-a-comprehensive-guide/)
 - [Log Analytics 101: Everything You Need to Know](https://last9.io/blog/log-analytics/)
 - [The Developer’s Handbook to Centralized Logging](https://last9.io/blog/the-developers-handbook-to-centralized-logging/)
 - [kubectl exec: Commands, Examples, and Best Practices](https://last9.io/blog/kubectl-exec-commands-examples-and-best-practices/)
