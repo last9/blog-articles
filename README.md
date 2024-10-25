@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Host Metrics Using OpenTelemetry](https://last9.io/blog/host-metrics-using-opentelemetry/)
 - [Prometheus Alertmanager: What You Need to Know](https://last9.io/blog/prometheus-alertmanager/)
 - [Understanding Kubernetes Metrics Server: Your Go-to Guide](https://last9.io/blog/kubernetes-metrics-server/)
 - [How to Cut Down Amazon CloudWatch Costs](https://last9.io/blog/how-to-cut-down-aws-cloudwatch-costs/)
 - [Prometheus RemoteWrite Exporter: A Comprehensive Guide](https://last9.io/blog/prometheusremotewriteexporter-a-comprehensive-guide/)
-- [Log Analytics 101: Everything You Need to Know](https://last9.io/blog/log-analytics/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
