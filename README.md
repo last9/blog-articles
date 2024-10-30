@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Only Kubectl Commands Cheat Sheet You’ll Ever Need](https://last9.io/blog/kubectl-commands-cheatsheet/)
 - [SRECon EMEA 2024 - Day 1](https://last9.io/blog/srecon-emea-2024-day-1/)
 - [Scaling Prometheus: Tips, Tricks, and Proven Strategies](https://last9.io/blog/scaling-prometheus-tips-tricks-and-proven-strategies/)
 - [Datadog vs. Grafana: Finding Your Ideal Monitoring Tool](https://last9.io/blog/datadog-vs-grafana/)
 - [Getting Started with Host Metrics Using OpenTelemetry](https://last9.io/blog/host-metrics-using-opentelemetry/)
-- [Prometheus Alertmanager: What You Need to Know](https://last9.io/blog/prometheus-alertmanager/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
