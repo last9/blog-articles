@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Parquet Files: A Surprisingly Entertaining Guide to Columnar Storage](https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/)
+- [The Parquet Files: An Entertaining Guide to Columnar Storage](https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/)
 - [SRECon EMEA 2024 - Day 3](https://last9.io/blog/srecon-emea-2024-day-3/)
 - [SRECon EMEA 2024 - Day 2](https://last9.io/blog/srecon-emea-2024-day-2/)
 - [The Only Kubectl Commands Cheat Sheet You’ll Ever Need](https://last9.io/blog/kubectl-commands-cheatsheet/)
