@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Microservices: Key Concepts Explained](https://last9.io/blog/kubernetes-microservices/)
 - [The Parquet Files: An Entertaining Guide to Columnar Storage](https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/)
 - [SRECon EMEA 2024 - Day 3](https://last9.io/blog/srecon-emea-2024-day-3/)
 - [SRECon EMEA 2024 - Day 2](https://last9.io/blog/srecon-emea-2024-day-2/)
 - [The Only Kubectl Commands Cheat Sheet You’ll Ever Need](https://last9.io/blog/kubectl-commands-cheatsheet/)
-- [SRECon EMEA 2024 - Day 1](https://last9.io/blog/srecon-emea-2024-day-1/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
