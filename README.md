@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Must-Attend Talks and Activities at KubeCon 2024](https://last9.io/blog/must-attend-talks-and-activities-at-kubecon-2024/)
 - [Prometheus Pushgateway: How to Track Short-Lived Jobs](https://last9.io/blog/prometheus-pushgateway/)
 - [Kubernetes Microservices: Key Concepts Explained](https://last9.io/blog/kubernetes-microservices/)
 - [The Parquet Files: An Entertaining Guide to Columnar Storage](https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/)
 - [SRECon EMEA 2024 - Day 3](https://last9.io/blog/srecon-emea-2024-day-3/)
-- [SRECon EMEA 2024 - Day 2](https://last9.io/blog/srecon-emea-2024-day-2/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
