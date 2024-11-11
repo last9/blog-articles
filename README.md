@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Docker Logs: A Quick Guide for Developers](https://last9.io/blog/docker-logs/)
 - [Must-Attend Talks and Activities at KubeCon 2024](https://last9.io/blog/must-attend-talks-and-activities-at-kubecon-2024/)
+- [Support for AND and OR while searching logs body, other improvements](https://last9.io/changelog/support-for-and-and-or-while-searching-logs-body-other-improvements/)
+- [Query Library for Logs with Saved and Recent Queries](https://last9.io/changelog/query-library-for-logs-with-saved-and-recent-queries/)
 - [Prometheus Pushgateway: How to Track Short-Lived Jobs](https://last9.io/blog/prometheus-pushgateway/)
-- [Kubernetes Microservices: Key Concepts Explained](https://last9.io/blog/kubernetes-microservices/)
-- [The Parquet Files: An Entertaining Guide to Columnar Storage](https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
