@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Last9’s Single Pane for High Cardinality Observability: Our Telemetry Warehouse now also supports Logs &amp; Traces](https://last9.io/blog/single-pane-observability-logs-traces-metrics/)
+- [Introducing Last9’s Single Pane for High Cardinality Observability: Support now for Logs &amp; Traces](https://last9.io/blog/single-pane-observability-logs-traces-metrics/)
 - [Logs Explorer: Better performance for loading large volumes of logs, Fixes to Query Builder](https://last9.io/changelog/improvements-to-logs-explorer-better-performance-for-loading-large-volumes-of-logs-fixes-to-query-builder/)
 - [How Structured Logging Makes Troubleshooting Easier](https://last9.io/blog/structured-logging/)
 - [Flask Logging Made Simple for Developers](https://last9.io/blog/flask-logging/)
