@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Query Editor with LogQL compatibility](https://last9.io/changelog/query-editor-with-logql-compatibility/)
 - [Introducing Last9’s Single Pane for High Cardinality Observability: Support now for Logs &amp; Traces](https://last9.io/blog/single-pane-observability-logs-traces-metrics/)
 - [Logs Explorer: Better performance for loading large volumes of logs, Fixes to Query Builder](https://last9.io/changelog/improvements-to-logs-explorer-better-performance-for-loading-large-volumes-of-logs-fixes-to-query-builder/)
 - [How Structured Logging Makes Troubleshooting Easier](https://last9.io/blog/structured-logging/)
 - [Flask Logging Made Simple for Developers](https://last9.io/blog/flask-logging/)
-- [Understanding Docker Logs: A Quick Guide for Developers](https://last9.io/blog/docker-logs/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
