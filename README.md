@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improvements to Logs Explorer: better performance for loading large volumes of logs, fixes to query builder](https://last9.io/changelog/improvements-to-logs-explorer-better-performance-for-loading-large-volumes-of-logs-fixes-to-query-builder/)
 - [How Structured Logging Makes Troubleshooting Easier](https://last9.io/blog/structured-logging/)
 - [Flask Logging Made Simple for Developers](https://last9.io/blog/flask-logging/)
 - [Understanding Docker Logs: A Quick Guide for Developers](https://last9.io/blog/docker-logs/)
 - [Must-Attend Talks and Activities at KubeCon 2024](https://last9.io/blog/must-attend-talks-and-activities-at-kubecon-2024/)
-- [Support for AND and OR while searching logs body, other improvements](https://last9.io/changelog/support-for-and-and-or-while-searching-logs-body-other-improvements/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
