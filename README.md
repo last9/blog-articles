@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenTelemetry in Rust](https://last9.io/blog/opentelemetry-in-rust/)
 - [KubeCon NA 2024 Day 2 Recap](https://last9.io/blog/kubecon-na-2024-day-2-recap/)
 - [KubeCon NA 2024 Day 1 Recap: Observability Day &amp; More](https://last9.io/blog/kubecon-na-2024-day-1-recap/)
 - [AWS CloudTrail Guide: Uses, Events, and Setup Explained](https://last9.io/blog/aws-cloudtrail-guide/)
 - [What is ELK: Core Components, Ecosystem &amp; Setup Guide](https://last9.io/blog/what-is-elk/)
-- [Query Editor with LogQL compatibility](https://last9.io/changelog/query-editor-with-logql-compatibility/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
