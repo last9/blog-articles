@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Logs Tail: A Developer&#39;s Guide](https://last9.io/blog/docker-logs-tail-a-guide/)
 - [AWS Monitoring Tools to Optimize Cloud Performance](https://last9.io/blog/aws-monitoring-tools/)
 - [OpenSearch vs. Elasticsearch: What’s the Real Difference?](https://last9.io/blog/opensearch-vs-elasticsearch/)
 - [Kubernetes Observability with OpenTelemetry Operator](https://last9.io/blog/kubernetes-observability-with-opentelemetry-operator/)
 - [Why Golden Signals Matter for Monitoring](https://last9.io/blog/golden-signals-for-monitoring/)
-- [KubeCon NA 2024 Day 4 Recap](https://last9.io/blog/kubecon-na-2024-day-4-recap/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
