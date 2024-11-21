@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Getting the Most Out of Tracing Tools for Observability](https://last9.io/blog/tracing-tools-for-observability/)
 - [Proactive Monitoring: What It Is, Why It Matters, &amp; Use Cases](https://last9.io/blog/proactive-monitoring/)
 - [Docker Logs Tail: A Developer&#39;s Guide](https://last9.io/blog/docker-logs-tail-a-guide/)
+- [Prometheus Metrics Types - A Deep Dive](https://last9.io/blog/prometheus-metrics-types-a-deep-dive/)
 - [AWS Monitoring Tools to Optimize Cloud Performance](https://last9.io/blog/aws-monitoring-tools/)
-- [OpenSearch vs. Elasticsearch: What’s the Real Difference?](https://last9.io/blog/opensearch-vs-elasticsearch/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
