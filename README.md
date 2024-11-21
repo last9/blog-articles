@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extracting Account-Level CDN Metrics from Akamai Logs with Last9](https://last9.io/blog/extracting-account-level-cdn-metrics-from-akamai-logs-with-last9/)
 - [AWS re: Invent 2024: Must-Know Tips &amp; What to Expect](https://last9.io/blog/aws-re-invent-2024-must-know-tips/)
 - [Logging Errors in Go with ZeroLog: A Simple Guide](https://last9.io/blog/logging-errors-in-go-with-zerolog/)
 - [Getting the Most Out of Tracing Tools for Observability](https://last9.io/blog/tracing-tools-for-observability/)
 - [Proactive Monitoring: What It Is, Why It Matters, &amp; Use Cases](https://last9.io/blog/proactive-monitoring/)
-- [Docker Logs Tail: A Developer&#39;s Guide](https://last9.io/blog/docker-logs-tail-a-guide/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
