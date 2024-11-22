@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Logging: Everything You Need to Know](https://last9.io/blog/django-logging/)
 - [Morgan npm and Its Role in Node.js](https://last9.io/blog/morgan-npm-and-its-role-in-node-js/)
 - [Extracting Account-Level CDN Metrics from Akamai Logs with Last9](https://last9.io/blog/extracting-account-level-cdn-metrics-from-akamai-logs-with-last9/)
 - [AWS re: Invent 2024: Must-Know Tips &amp; What to Expect](https://last9.io/blog/aws-re-invent-2024-must-know-tips/)
 - [Logging Errors in Go with ZeroLog: A Simple Guide](https://last9.io/blog/logging-errors-in-go-with-zerolog/)
-- [Getting the Most Out of Tracing Tools for Observability](https://last9.io/blog/tracing-tools-for-observability/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
