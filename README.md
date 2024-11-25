@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kibana vs Grafana: Key Differences and Use Cases](https://last9.io/blog/kibana-vs-grafana/)
 - [Crontab Logs: Track, Debug, and Optimize Your Cron Jobs](https://last9.io/blog/crontab-logs/)
 - [Django Logging: Everything You Need to Know](https://last9.io/blog/django-logging/)
 - [Morgan npm and Its Role in Node.js](https://last9.io/blog/morgan-npm-and-its-role-in-node-js/)
 - [Extracting Account-Level CDN Metrics from Akamai Logs with Last9](https://last9.io/blog/extracting-account-level-cdn-metrics-from-akamai-logs-with-last9/)
-- [AWS re: Invent 2024: Must-Know Tips &amp; What to Expect](https://last9.io/blog/aws-re-invent-2024-must-know-tips/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
