@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Filebeat vs Logstash: Key Differences for Your Logging Needs](https://last9.io/blog/filebeat-vs-logstash/)
 - [A Complete Guide to Kubernetes Observability](https://last9.io/blog/a-complete-guide-to-kubernetes-observability/)
 - [Kibana vs Grafana: Key Differences and Use Cases](https://last9.io/blog/kibana-vs-grafana/)
 - [Crontab Logs: Track, Debug, and Optimize Your Cron Jobs](https://last9.io/blog/crontab-logs/)
 - [Django Logging: Everything You Need to Know](https://last9.io/blog/django-logging/)
-- [Morgan npm and Its Role in Node.js](https://last9.io/blog/morgan-npm-and-its-role-in-node-js/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
