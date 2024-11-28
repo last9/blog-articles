@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes CPU Throttling: What It Is and How to Avoid It](https://last9.io/blog/kubernetes-cpu-throttling/)
 - [Full-Stack Observability for Better Application Performance](https://last9.io/blog/full-stack-observability/)
 - [A Complete Guide to Using the Grok Debugger](https://last9.io/blog/grok-debugger/)
 - [Filebeat vs Logstash: Key Differences for Your Logging Needs](https://last9.io/blog/filebeat-vs-logstash/)
 - [A Complete Guide to Kubernetes Observability](https://last9.io/blog/a-complete-guide-to-kubernetes-observability/)
-- [Kibana vs Grafana: Key Differences and Use Cases](https://last9.io/blog/kibana-vs-grafana/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
