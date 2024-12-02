@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to docker compose restart](https://last9.io/blog/docker-compose-restart/)
 - [Top 5 Open Source SIEM Tools for Security Monitoring](https://last9.io/blog/open-source-siem-tools/)
 - [Enhancing Observability with Fluent Bit and OpenTelemetry](https://last9.io/blog/fluent-bit-and-opentelemetry/)
 - [Kubernetes CPU Throttling: What It Is and How to Avoid It](https://last9.io/blog/kubernetes-cpu-throttling/)
 - [Full-Stack Observability for Better Application Performance](https://last9.io/blog/full-stack-observability/)
-- [A Complete Guide to Using the Grok Debugger](https://last9.io/blog/grok-debugger/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
