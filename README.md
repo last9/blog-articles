@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2024 Day 1 Recap](https://last9.io/blog/aws-re-invent-2024-day-1-recap/)
 - [A Beginner&#39;s Guide to GCP Monitoring](https://last9.io/blog/gcp-monitoring/)
 - [How AWS Step Functions Work for Serverless Apps](https://last9.io/blog/aws-step-functions/)
 - [Fluentd vs Fluent Bit – A Comprehensive Overview](https://last9.io/blog/fluentd-vs-fluent-bit/)
 - [The Complete Guide to docker compose restart](https://last9.io/blog/docker-compose-restart/)
-- [Top 5 Open Source SIEM Tools for Security Monitoring](https://last9.io/blog/open-source-siem-tools/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
