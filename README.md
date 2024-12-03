@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AWS Step Functions Work for Serverless Apps](https://last9.io/blog/aws-step-functions/)
 - [Fluentd vs Fluent Bit – A Comprehensive Overview](https://last9.io/blog/fluentd-vs-fluent-bit/)
 - [The Complete Guide to docker compose restart](https://last9.io/blog/docker-compose-restart/)
 - [Top 5 Open Source SIEM Tools for Security Monitoring](https://last9.io/blog/open-source-siem-tools/)
 - [Enhancing Observability with Fluent Bit and OpenTelemetry](https://last9.io/blog/fluent-bit-and-opentelemetry/)
-- [Kubernetes CPU Throttling: What It Is and How to Avoid It](https://last9.io/blog/kubernetes-cpu-throttling/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
