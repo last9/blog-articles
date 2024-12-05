@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Docker Alternatives: Cost, Performance &amp; Use Cases](https://last9.io/blog/top-10-docker-alternatives/)
 - [LLM Observability: Importance, Best Practices, and Steps](https://last9.io/blog/llm-observability/)
 - [AWS re:Invent 2024 Day 2 Recap](https://last9.io/blog/aws-re-invent-2024-day-2-recap/)
 - [MongoDB vs Elasticsearch: Key Differences Explained](https://last9.io/blog/mongodb-vs-elasticsearch/)
 - [API Monitoring: A Comprehensive Guide for Developers](https://last9.io/blog/api-monitoring/)
-- [AWS re:Invent 2024 Day 1 Recap](https://last9.io/blog/aws-re-invent-2024-day-1-recap/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
