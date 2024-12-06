@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2024 Day 4 Recap](https://last9.io/blog/aws-re-invent-2024-day-4-recap/)
 - [Datadog vs Dynatrace: A Comprehensive Comparison](https://last9.io/blog/datadog-vs-dynatrace/)
 - [Grafana and Docker: A Simple Way to Monitor Everything](https://last9.io/blog/grafana-and-docker/)
 - [AWS re:Invent 2024 Day 3 Recap](https://last9.io/blog/aws-re-invent-2024-day-3-recap/)
 - [Top 10 Docker Alternatives: Cost, Performance &amp; Use Cases](https://last9.io/blog/top-10-docker-alternatives/)
-- [LLM Observability: Importance, Best Practices, and Steps](https://last9.io/blog/llm-observability/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
