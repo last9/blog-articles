@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenTelemetry Logging: A Practical Guide](https://last9.io/blog/opentelemetry-logging/)
 - [Kubernetes vs Docker Swarm: Which to Choose for Containers?](https://last9.io/blog/kubernetes-vs-docker-swarm/)
 - [Grafana Variables: Dynamic Dashboards Done Right](https://last9.io/blog/grafana-variables/)
 - [Docker Compose Logs: An In-Depth Guide for Developers](https://last9.io/blog/docker-compose-logs/)
 - [Python Logging with Structlog: A Comprehensive Guide](https://last9.io/blog/python-logging-with-structlog/)
-- [systemctl logs: A Guide to Managing Logs in Linux](https://last9.io/blog/systemctl-logs/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
