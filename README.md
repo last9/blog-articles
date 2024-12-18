@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Linux Monitoring Tools for 2024](https://last9.io/blog/the-best-linux-monitoring-tools-for-2024/)
+- [Instrumenting AWS Lambda Functions with OpenTelemetry](https://last9.io/blog/aws-lambda-functions-with-opentelemetry/)
 - [DNS Monitoring: Everything You Need to Know](https://last9.io/blog/dns-monitoring/)
 - [Introduction to OpenTelemetry Express for Node.js Applications](https://last9.io/blog/opentelemetry-express/)
 - [Getting Started with OpenTelemetry Logging: A Practical Guide](https://last9.io/blog/opentelemetry-logging/)
-- [Kubernetes vs Docker Swarm: Which to Choose for Containers?](https://last9.io/blog/kubernetes-vs-docker-swarm/)
-- [Grafana Variables: Dynamic Dashboards Done Right](https://last9.io/blog/grafana-variables/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
