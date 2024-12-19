@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Syslog Explained: Configuration and Tips](https://last9.io/blog/linux-syslog-explained/)
 - [A Complete Guide to Integrating OpenTelemetry with FastAPI](https://last9.io/blog/integrating-opentelemetry-with-fastapi/)
 - [The Best Heroku Alternatives for Developers in 2024](https://last9.io/blog/best-heroku-alternatives/)
 - [The Best Linux Monitoring Tools for 2024](https://last9.io/blog/the-best-linux-monitoring-tools-for-2024/)
 - [Instrumenting AWS Lambda Functions with OpenTelemetry](https://last9.io/blog/aws-lambda-functions-with-opentelemetry/)
-- [DNS Monitoring: Everything You Need to Know](https://last9.io/blog/dns-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
