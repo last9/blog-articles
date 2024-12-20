@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry with Flask: A Comprehensive Guide for Web Apps](https://last9.io/blog/opentelemetry-with-flask/)
 - [Top 5 Firebase Alternatives for 2024: Best Picks](https://last9.io/blog/top-5-firebase-alternatives/)
 - [Kafka with OpenTelemetry: Distributed Tracing Guide](https://last9.io/blog/kafka-with-opentelemetry/)
 - [Why Cloud Security Monitoring is Crucial for Your Business](https://last9.io/blog/cloud-security-monitoring/)
 - [Linux Syslog Explained: Configuration and Tips](https://last9.io/blog/linux-syslog-explained/)
-- [A Complete Guide to Integrating OpenTelemetry with FastAPI](https://last9.io/blog/integrating-opentelemetry-with-fastapi/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
