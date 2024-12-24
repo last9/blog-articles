@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Network Device Monitoring Explained](https://last9.io/blog/network-device-monitoring-explained/)
 - [The Role of OpenTelemetry Events in Improving Observability](https://last9.io/blog/opentelemetry-events/)
 - [OpenTelemetry Context Propagation for Better Tracing](https://last9.io/blog/opentelemetry-context-propagation/)
 - [gRPC with OpenTelemetry: Observability Guide for Microservices](https://last9.io/blog/grpc-with-opentelemetry/)
 - [Why You Need Server Monitoring Tools and How to Choose](https://last9.io/blog/server-monitoring-tools/)
-- [OpenTelemetry with Flask: A Comprehensive Guide for Web Apps](https://last9.io/blog/opentelemetry-with-flask/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
