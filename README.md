@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Systems with the Observability Maturity Model](https://last9.io/blog/observability-maturity-model/)
 - [How to Integrate OpenTelemetry with Django](https://last9.io/blog/how-to-integrate-opentelemetry-with-django/)
 - [Application Monitoring Best Practices: A Comprehensive Guide](https://last9.io/blog/application-monitoring-best-practices/)
 - [Implementing OpenTelemetry in Ruby: A Guide for Developers](https://last9.io/blog/opentelemetry-in-ruby/)
 - [Implementing Distributed Tracing with OpenTelemetry](https://last9.io/blog/distributed-tracing-with-opentelemetry/)
-- [The Essentials of SNMP Monitoring in Networks](https://last9.io/blog/essentials-of-snmp-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
