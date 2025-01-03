@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Logrus: The Ultimate Go Logger for Efficient Logging](https://last9.io/blog/understanding-logrus/)
 - [Cloud Tracing in Distributed Systems: Gaining Visibility](https://last9.io/blog/cloud-tracing-in-distributed-systems/)
 - [Getting Started with AWS WAF: A Step-by-Step Guide](https://last9.io/blog/getting-started-with-aws-waf/)
 - [Winston Logging in Node.js: The Essential Guide for Developers](https://last9.io/blog/winston-logging-in-nodejs/)
 - [Kafka Observability: Key to Managing Distributed Systems](https://last9.io/blog/kafka-observability/)
-- [eBPF for Enhanced Observability in Modern Systems](https://last9.io/blog/ebpf-for-enhanced-observability/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
