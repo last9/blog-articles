@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Understanding MongoDB Logs](https://last9.io/blog/mongodb-logs/)
 - [How to Set Up and Manage Cron Jobs in Windows](https://last9.io/blog/manage-cron-jobs-in-windows/)
 - [Application Logs: Key Components, Types, &amp; Best Practices](https://last9.io/blog/application-logs/)
 - [Parquet vs CSV: Which Format Should You Choose?](https://last9.io/blog/parquet-vs-csv/)
 - [Monolithic vs. Microservices: The Great Architecture Debate](https://last9.io/blog/monolithic-vs-microservices/)
-- [Podman vs Docker: Key Differences and Which is Better](https://last9.io/blog/podman-vs-docker/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
