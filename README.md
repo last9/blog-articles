@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Parquet vs CSV: Which Format Should You Choose?](https://last9.io/blog/parquet-vs-csv/)
 - [Monolithic vs. Microservices: The Great Architecture Debate](https://last9.io/blog/monolithic-vs-microservices/)
 - [Podman vs Docker: Key Differences and Which is Better](https://last9.io/blog/podman-vs-docker/)
 - [Types of Errors in Python and How to Fix Them](https://last9.io/blog/types-of-errors-in-python/)
 - [Understanding Logrus: The Ultimate Go Logger for Efficient Logging](https://last9.io/blog/understanding-logrus/)
-- [Cloud Tracing in Distributed Systems: Gaining Visibility](https://last9.io/blog/cloud-tracing-in-distributed-systems/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
