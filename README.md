@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Spring Boot Logging: Best Practices &amp; Techniques](https://last9.io/blog/a-guide-to-spring-boot-logging/)
 - [What Makes Azure WAF Essential for Web Apps?](https://last9.io/blog/azure-waf/)
 - [A Simple Guide to Understanding MongoDB Logs](https://last9.io/blog/mongodb-logs/)
 - [How to Set Up and Manage Cron Jobs in Windows](https://last9.io/blog/manage-cron-jobs-in-windows/)
 - [Application Logs: Key Components, Types, &amp; Best Practices](https://last9.io/blog/application-logs/)
-- [Parquet vs CSV: Which Format Should You Choose?](https://last9.io/blog/parquet-vs-csv/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
