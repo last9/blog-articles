@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Observability Platform Migration: What You Need to Know](https://last9.io/blog/observability-platform-migration/)
 - [Container Security: What It Is, Architecture, and Best Practices](https://last9.io/blog/container-security/)
 - [OpenSearch Serverless: How It Works &amp; Key Comparisons](https://last9.io/blog/opensearch-serverless/)
 - [Log Tracing vs Logging: Understanding the Difference](https://last9.io/blog/log-tracing-vs-logging/)
 - [Essential Guide to Log Rotation in Linux](https://last9.io/blog/log-rotation-in-linux/)
-- [The Power of Sidecar Containers in Kubernetes Explained](https://last9.io/blog/sidecar-containers-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
