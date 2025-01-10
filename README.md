@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Data Observability is Important for Your Business](https://last9.io/blog/why-data-observability-is-important/)
 - [Top 7 Cloud Providers: The Best AWS Alternatives](https://last9.io/blog/aws-alternatives/)
 - [Join Us for the ClickHouse Mumbai Meetup!](https://last9.io/events/join-us-for-the-clickhouse-mumbai-meetup/)
 - [Splunk vs. Datadog: A Side-by-Side Comparison](https://last9.io/blog/splunk-vs-datadog-a-side-by-side-comparison/)
 - [npm Packages: Cheatsheet, Troubleshooting &amp; More](https://last9.io/blog/npm-packages-cheatsheet/)
-- [What Unified Observability Means for Your System](https://last9.io/blog/what-unified-observability-means-for-your-system/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
