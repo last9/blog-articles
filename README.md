@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker vs Docker Swarm: Key Differences Explained](https://last9.io/blog/docker-vs-docker-swarm-key-differences-explained/)
-- [Why Data Observability is Important for Your Business](https://last9.io/blog/why-data-observability-is-important/)
-- [Top 7 Cloud Providers: The Best AWS Alternatives](https://last9.io/blog/aws-alternatives/)
-- [Join Us for the ClickHouse Mumbai Meetup!](https://last9.io/events/join-us-for-the-clickhouse-mumbai-meetup/)
-- [Splunk vs. Datadog: A Side-by-Side Comparison](https://last9.io/blog/splunk-vs-datadog-a-side-by-side-comparison/)
+- [Heroku Logs: Everything You Need to Know](https://last9.io/blog/heroku-logs)
+- [Docker vs Docker Swarm: Key Differences Explained](https://last9.io/blog/docker-vs-docker-swarm-key-differences-explained)
+- [Why Data Observability is Important for Your Business](https://last9.io/blog/why-data-observability-is-important)
+- [Top 7 Cloud Providers: The Best AWS Alternatives](https://last9.io/blog/aws-alternatives)
+- [Join Us for the ClickHouse Mumbai Meetup!](https://last9.io/events/join-us-for-the-clickhouse-mumbai-meetup)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
