@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Fixes for Upstream Connect Errors](https://last9.io/blog/quick-fixes-for-upstream-connect-errors)
 - [Join Us for the ClickHouse Bangalore Meetup!](https://last9.io/events/join-us-for-the-clickhouse-bangalore-meetup)
 - [Heroku Logs: Everything You Need to Know](https://last9.io/blog/heroku-logs)
 - [Docker vs Docker Swarm: Key Differences Explained](https://last9.io/blog/docker-vs-docker-swarm-key-differences-explained)
 - [Why Data Observability is Important for Your Business](https://last9.io/blog/why-data-observability-is-important)
-- [Top 7 Cloud Providers: The Best AWS Alternatives](https://last9.io/blog/aws-alternatives)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
