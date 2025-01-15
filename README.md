@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Best DigitalOcean Alternatives for Developers in 2025](https://last9.io/blog/7-best-digitalocean-alternatives-for-developers)
 - [gRPC vs HTTP vs REST: Which is Right for Your Application?](https://last9.io/blog/grpc-vs-http-vs-rest)
 - [How to Set Up and Manage Cron Jobs in Node.js: Step-by-Step Guide](https://last9.io/blog/how-to-set-up-and-manage-cron-jobs-in-node-js)
 - [Quick Fixes for Upstream Connect Errors](https://last9.io/blog/quick-fixes-for-upstream-connect-errors)
 - [Join Us for the ClickHouse Bangalore Meetup!](https://last9.io/events/join-us-for-the-clickhouse-bangalore-meetup)
-- [Heroku Logs: Everything You Need to Know](https://last9.io/blog/heroku-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
