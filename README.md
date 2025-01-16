@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudWatch Metrics: Key Features, Working &amp; Cost Management](https://last9.io/blog/cloudwatch-metrics-key-features-working-cost-management)
 - [Cloudcraft: A Simple Tool for Cloud Architecture Design](https://last9.io/blog/cloudcraft-a-simple-tool-for-cloud-architecture-design)
 - [7 Best DigitalOcean Alternatives for Developers in 2025](https://last9.io/blog/7-best-digitalocean-alternatives-for-developers)
 - [gRPC vs HTTP vs REST: Which is Right for Your Application?](https://last9.io/blog/grpc-vs-http-vs-rest)
 - [How to Set Up and Manage Cron Jobs in Node.js: Step-by-Step Guide](https://last9.io/blog/how-to-set-up-and-manage-cron-jobs-in-node-js)
-- [Quick Fixes for Upstream Connect Errors](https://last9.io/blog/quick-fixes-for-upstream-connect-errors)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
