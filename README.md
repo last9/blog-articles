@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Worker Threads Explained &lpar;Without the Headache&rpar;](https://last9.io/blog/understanding-worker-threads-in-node-js)
 - [Loki S3 Storage: A Guide for Efficient Log Management](https://last9.io/blog/loki-s3-storage-guide)
 - [Java Application Monitoring: How It Works, Tools, and Best Practices](https://last9.io/blog/java-application-monitoring-how-it-works)
 - [Windows Server Monitoring: Tools, Best Practices &amp; Strategies](https://last9.io/blog/windows-server-monitoring)
 - [pino-pretty: A Guide to Pretty-Printing Your Logs](https://last9.io/blog/pino-pretty)
-- [CloudWatch Metrics: Key Features, Working &amp; Cost Management](https://last9.io/blog/cloudwatch-metrics-key-features-working-cost-management)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
