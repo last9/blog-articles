@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Application Monitoring: How It Works, Tools, and Best Practices](https://last9.io/blog/java-application-monitoring-how-it-works)
 - [Windows Server Monitoring: Tools, Best Practices &amp; Strategies](https://last9.io/blog/windows-server-monitoring)
 - [pino-pretty: A Guide to Pretty-Printing Your Logs](https://last9.io/blog/pino-pretty)
 - [CloudWatch Metrics: Key Features, Working &amp; Cost Management](https://last9.io/blog/cloudwatch-metrics-key-features-working-cost-management)
 - [Cloudcraft: A Simple Tool for Cloud Architecture Design](https://last9.io/blog/cloudcraft-a-simple-tool-for-cloud-architecture-design)
-- [7 Best DigitalOcean Alternatives for Developers in 2025](https://last9.io/blog/7-best-digitalocean-alternatives-for-developers)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
