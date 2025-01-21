@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SLF4J vs Log4j: Key Differences and Choosing the Right One](https://last9.io/blog/slf4j-vs-log4j-key-differences)
 - [Total Blocking Time &lpar;TBT&rpar;: What It Is, Why It Matters, and How to Fix It](https://last9.io/blog/total-blocking-time-tbt)
 - [Log Levels: Different Types and How to Use Them](https://last9.io/blog/log-levels-explained)
 - [What is Single Pane of Glass Monitoring and How It Works](https://last9.io/blog/what-is-single-pane-of-glass-monitoring-and-how-it-works)
 - [Node.js Worker Threads Explained &lpar;Without the Headache&rpar;](https://last9.io/blog/understanding-worker-threads-in-node-js)
-- [Loki S3 Storage: A Guide for Efficient Log Management](https://last9.io/blog/loki-s3-storage-guide)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
