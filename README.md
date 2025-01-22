@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with the OpenTelemetry Helm Chart in K8s](https://last9.io/blog/getting-started-with-the-opentelemetry-helm-chart-in-k8s)
 - [A Complete Guide to Threat Hunting: Tools and Techniques](https://last9.io/blog/threat-hunting-tools-and-techniques)
 - [How to Use the Laravel Scheduler for Task Management](https://last9.io/blog/how-to-use-the-laravel-scheduler)
 - [Getting Started with Bun.js: A Quick Guide](https://last9.io/blog/getting-started-with-bun-js)
 - [Serilog: Configuration, Error Handling &amp; Best Practices](https://last9.io/blog/serilog-configuration)
-- [How to Build a Cloud Strategy That Works for Your Business](https://last9.io/blog/how-to-build-a-cloud-strategy)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
