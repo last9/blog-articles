@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the Laravel Scheduler for Task Management](https://last9.io/blog/how-to-use-the-laravel-scheduler)
 - [Getting Started with Bun.js: A Quick Guide](https://last9.io/blog/getting-started-with-bun-js)
 - [Serilog: Configuration, Error Handling &amp; Best Practices](https://last9.io/blog/serilog-configuration)
 - [How to Build a Cloud Strategy That Works for Your Business](https://last9.io/blog/how-to-build-a-cloud-strategy)
 - [SLF4J vs Log4j: Key Differences and Choosing the Right One](https://last9.io/blog/slf4j-vs-log4j-key-differences)
-- [Total Blocking Time &lpar;TBT&rpar;: What It Is, Why It Matters, and How to Fix It](https://last9.io/blog/total-blocking-time-tbt)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
