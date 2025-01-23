@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry Profiling: A Look into Performance Insights](https://last9.io/blog/opentelemetry-profiling)
 - [Apdex Score 101: Definition, Calculation, and Limitations](https://last9.io/blog/apdex-score-101-definition-calculation-and-limitations)
 - [Everything You Should Know About OpenTelemetry Collector Contrib](https://last9.io/blog/opentelemetry-collector-contrib)
 - [Getting Started with the OpenTelemetry Helm Chart in K8s](https://last9.io/blog/getting-started-with-the-opentelemetry-helm-chart-in-k8s)
 - [A Complete Guide to Threat Hunting: Tools and Techniques](https://last9.io/blog/threat-hunting-tools-and-techniques)
-- [How to Use the Laravel Scheduler for Task Management](https://last9.io/blog/how-to-use-the-laravel-scheduler)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
