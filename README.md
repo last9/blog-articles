@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon OpenSearch Service: The Only Tutorial You Need](https://last9.io/blog/amazon-opensearch-service)
 - [SIEM Architecture: Key Components, Integrations, and More](https://last9.io/blog/siem-architecture)
 - [India DevOps Show 2025](https://last9.io/events/india-devops-show-2025)
 - [OpenTelemetry Profiling: A Look into Performance Insights](https://last9.io/blog/opentelemetry-profiling)
 - [Apdex Score 101: Definition, Calculation, and Limitations](https://last9.io/blog/apdex-score-101-definition-calculation-and-limitations)
-- [Everything You Should Know About OpenTelemetry Collector Contrib](https://last9.io/blog/opentelemetry-collector-contrib)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
