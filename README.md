@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Datadog Pricing: All your Questions Answered](https://last9.io/blog/datadog-pricing-all-your-questions-answered)
 - [git fetch vs pull: Key Differences Explained](https://last9.io/blog/git-fetch-vs-pull)
 - [Your Go-To Git Commands CheatSheet](https://last9.io/blog/your-go-to-git-commands-cheatsheet)
 - [An Easy Guide to OpenTelemetry Environment Variables](https://last9.io/blog/opentelemetry-environment-variables)
 - [OpenTelemetry vs Jaeger: Which Should You Pick?](https://last9.io/blog/opentelemetry-vs-jaeger-which-should-you-pick)
-- [OpenTelemetry Collector with Docker: A Detailed Guide](https://last9.io/blog/opentelemetry-collector-with-docker)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
