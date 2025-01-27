@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Easy Guide to OpenTelemetry Environment Variables](https://last9.io/blog/opentelemetry-environment-variables)
 - [OpenTelemetry vs Jaeger: Which Should You Pick?](https://last9.io/blog/opentelemetry-vs-jaeger-which-should-you-pick)
 - [OpenTelemetry Collector with Docker: A Detailed Guide](https://last9.io/blog/opentelemetry-collector-with-docker)
 - [7 Leading Network Monitoring Tools for Enterprises](https://last9.io/blog/7-leading-network-monitoring-tools-for-enterprises)
 - [OpenTelemetry vs. Prometheus](https://last9.io/blog/opentelemetry-vs-prometheus)
-- [Amazon OpenSearch Service: The Only Tutorial You Need](https://last9.io/blog/amazon-opensearch-service)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
