@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TCP Monitoring Made Simple: Keep Your Network in Check](https://last9.io/blog/tcp-monitoring)
 - [DeveloperWeek US 2025](https://last9.io/events/developerweek-us-2025)
 - [IoT Monitoring: Why It Matters and How to Do It Right?](https://last9.io/blog/iot-monitoring-why-it-matters)
 - [Error Logs: What They Are, Why They Matter, and How to Use Them](https://last9.io/blog/error-logs-what-they-are-why-they-matter-and-how-to-use-them)
 - [Datadog Pricing: All your Questions Answered](https://last9.io/blog/datadog-pricing-all-your-questions-answered)
-- [git fetch vs pull: Key Differences Explained](https://last9.io/blog/git-fetch-vs-pull)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
