@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RUM: Key Metrics and How to Measure Them](https://last9.io/blog/real-user-monitoring-rum)
 - [5 Common Incident Severity Levels You Should Know](https://last9.io/blog/common-incident-severity-levels)
 - [What Are Syslog Levels and Why Should You Care?](https://last9.io/blog/what-are-syslog-levels)
 - [View related logs and traces from a Dashboard panel](https://last9.io/changelog/view-related-logs-and-traces-from-a-dashboard-panel)
 - [7 Best and Scalable SolarWinds Alternatives to Consider in 2025](https://last9.io/blog/7-best-and-scalable-solarwinds-alternatives)
-- [TCP Monitoring Made Simple: Keep Your Network in Check](https://last9.io/blog/tcp-monitoring)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
