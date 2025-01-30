@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenMetrics vs OpenTelemetry: A Detailed Comparison](https://last9.io/blog/openmetrics-vs-opentelemetry-a-detailed-comparison)
 - [Top 5 Dynatrace Alternatives: Compare Features, Pricing &amp; More](https://last9.io/blog/top-5-dynatrace-alternatives)
 - [RUM: Key Metrics and How to Measure Them](https://last9.io/blog/real-user-monitoring-rum)
 - [5 Common Incident Severity Levels You Should Know](https://last9.io/blog/common-incident-severity-levels)
 - [What Are Syslog Levels and Why Should You Care?](https://last9.io/blog/what-are-syslog-levels)
-- [View related logs and traces from a Dashboard panel](https://last9.io/changelog/view-related-logs-and-traces-from-a-dashboard-panel)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
