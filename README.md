@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rails Logger: How to Customize, Configure, and Optimize Your Logs](https://last9.io/blog/rails-logger-how-to-customize-configure-and-optimize-your-logs)
 - [MySQL Monitoring: Open-Source vs. Commercial Tools](https://last9.io/blog/mysql-monitoring-open-source-vs-commercial-tools)
 - [Pingdom Alternatives: The Best 7 Options for Website Monitoring](https://last9.io/blog/7-pingdom-alternatives)
 - [Pod Exec in K8s: Advanced Exec Scenarios and Best Practices](https://last9.io/blog/pod-exec-in-kubernetes)
 - [Kubernetes Pods vs Nodes: What Sets Them Apart](https://last9.io/blog/kubernetes-pods-vs-nodes)
-- [OpenMetrics vs OpenTelemetry: A Detailed Comparison](https://last9.io/blog/openmetrics-vs-opentelemetry-a-detailed-comparison)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
