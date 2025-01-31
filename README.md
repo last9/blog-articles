@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JMX Metrics: Types, What to Monitor, and When to Check](https://last9.io/blog/jmx-metrics-types)
 - [JMX Monitoring: Your Go-To Guide for Java Application Management](https://last9.io/blog/jmx-monitoring)
 - [Rails Logger: How to Customize, Configure, and Optimize Your Logs](https://last9.io/blog/rails-logger-how-to-customize-configure-and-optimize-your-logs)
 - [MySQL Monitoring: Open-Source vs. Commercial Tools](https://last9.io/blog/mysql-monitoring-open-source-vs-commercial-tools)
 - [Pingdom Alternatives: The Best 7 Options for Website Monitoring](https://last9.io/blog/7-pingdom-alternatives)
-- [Pod Exec in K8s: Advanced Exec Scenarios and Best Practices](https://last9.io/blog/pod-exec-in-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
