@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logfiles: What They Reveal and How to Use Them](https://last9.io/blog/logfiles)
 - [How to Spot and Fix Memory Leaks in Java?](https://last9.io/blog/how-to-spot-and-fix-memory-leaks-in-java)
 - [The Basics of Log Parsing &lpar;Without the Jargon&rpar;](https://last9.io/blog/the-basics-of-log-parsing)
 - [JMX Metrics: Types, What to Monitor, and When to Check](https://last9.io/blog/jmx-metrics-types)
 - [JMX Monitoring: Your Go-To Guide for Java Application Management](https://last9.io/blog/jmx-monitoring)
-- [Rails Logger: How to Customize, Configure, and Optimize Your Logs](https://last9.io/blog/rails-logger-how-to-customize-configure-and-optimize-your-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
