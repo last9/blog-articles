@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 11 API Monitoring Tools You Need to Know](https://last9.io/blog/top-11-api-monitoring-tools)
 - [Website Performance Benchmarks: What You Should Aim For [with Examples]](https://last9.io/blog/website-performance-benchmarks)
 - [SSHD Logs 101: Configuration, Security, and Troubleshooting Scenarios](https://last9.io/blog/sshd-logs-101)
 - [How to Master Zap Logger for Clean, Fast Logs](https://last9.io/blog/zap-logger)
 - [OpenTelemetry Processors: Workflows, Configuration Tips, and Best Practices](https://last9.io/blog/opentelemetry-processors)
-- [Logging in Go with Slog: A Detailed Guide](https://last9.io/blog/logging-in-go-with-slog-a-detailed-guide)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
