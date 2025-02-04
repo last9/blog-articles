@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Master Zap Logger for Clean, Fast Logs](https://last9.io/blog/zap-logger)
 - [OpenTelemetry Processors: Workflows, Configuration Tips, and Best Practices](https://last9.io/blog/opentelemetry-processors)
 - [Logging in Go with Slog: A Detailed Guide](https://last9.io/blog/logging-in-go-with-slog-a-detailed-guide)
 - [Logfiles: What They Reveal and How to Use Them](https://last9.io/blog/logfiles)
 - [How to Spot and Fix Memory Leaks in Java?](https://last9.io/blog/how-to-spot-and-fix-memory-leaks-in-java)
-- [The Basics of Log Parsing &lpar;Without the Jargon&rpar;](https://last9.io/blog/the-basics-of-log-parsing)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
