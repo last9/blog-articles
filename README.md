@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenTelemetry Java SDK](https://last9.io/blog/getting-started-with-opentelemetry-java-sdk)
 - [10 Kubernetes Monitoring Tools You Can&#39;t-Miss in 2025](https://last9.io/blog/10-kubernetes-monitoring-tools)
 - [Top 11 API Monitoring Tools You Need to Know](https://last9.io/blog/top-11-api-monitoring-tools)
 - [Website Performance Benchmarks: What You Should Aim For [with Examples]](https://last9.io/blog/website-performance-benchmarks)
 - [SSHD Logs 101: Configuration, Security, and Troubleshooting Scenarios](https://last9.io/blog/sshd-logs-101)
-- [How to Master Zap Logger for Clean, Fast Logs](https://last9.io/blog/zap-logger)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
