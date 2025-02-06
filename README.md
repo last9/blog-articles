@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Logs 101: Types, Configuration, and Troubleshooting](https://last9.io/blog/postgres-logs-101)
 - [NGINX Log Monitoring: What It Is, How to Get Started, and Fix Issues](https://last9.io/blog/nginx-log-monitoring)
 - [How to Monitor Error Logs in Real-Time: An In-Depth Guide](https://last9.io/blog/how-to-monitor-error-logs-in-real-time)
 - [Sentry vs Datadog: Which is the Right Tool for Your DevOps Needs](https://last9.io/blog/sentry-vs-datadog)
 - [AWS CloudWatch Custom Metrics: Types &amp; Setup Guide [With Examples]](https://last9.io/blog/aws-cloudwatch-custom-metrics-types-setup-guide-with-examples)
-- [Getting Started with OpenTelemetry Java SDK](https://last9.io/blog/getting-started-with-opentelemetry-java-sdk)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
