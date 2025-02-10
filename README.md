@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Log Levels: Answers to the Most Common Questions](https://last9.io/blog/log-levels-answers-to-the-most-common-questions)
 - [How Azure Observability Optimizes Performance and Monitoring](https://last9.io/blog/how-azure-observability-works)
 - [Everything You Need to Know About Microsoft Sentinel Pricing](https://last9.io/blog/everything-you-need-to-know-about-microsoft-sentinel-pricing)
 - [A Comprehensive Guide to Heaps in Java](https://last9.io/blog/heaps-in-java)
 - [Apache Solr: Features, Architecture, and Use Cases](https://last9.io/blog/apache-solr)
-- [Postgres Logs 101: Types, Configuration, and Troubleshooting](https://last9.io/blog/postgres-logs-101)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
