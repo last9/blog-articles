@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CSPM Explained: How to Secure Your Cloud the Right Way](https://last9.io/blog/aws-cspm-explained)
 - [The Ultimate Guide to OpenTelemetry Visualization](https://last9.io/blog/opentelemetry-visualization)
 - [Log Levels: Answers to the Most Common Questions](https://last9.io/blog/log-levels-answers-to-the-most-common-questions)
 - [How Azure Observability Optimizes Performance and Monitoring](https://last9.io/blog/how-azure-observability-works)
 - [Everything You Need to Know About Microsoft Sentinel Pricing](https://last9.io/blog/everything-you-need-to-know-about-microsoft-sentinel-pricing)
-- [A Comprehensive Guide to Heaps in Java](https://last9.io/blog/heaps-in-java)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
