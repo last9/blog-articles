@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Filter Docker Logs with Grep](https://last9.io/blog/how-to-filter-docker-logs-with-grep)
 - [Monitoring Kubernetes Resource Usage with kubectl top](https://last9.io/blog/kubectl-top)
 - [AWS CSPM Explained: How to Secure Your Cloud the Right Way](https://last9.io/blog/aws-cspm-explained)
 - [Distributed Tracing 101: Definition, Working and Implementation](https://last9.io/blog/challenges-of-distributed-tracing)
 - [The new Query Builder in Logs Explorer: Powerful Log Analysis without LogQL](https://last9.io/changelog/the-new-query-builder-in-logs-explorer-powerful-log-analysis-without-logql)
-- [The Ultimate Guide to OpenTelemetry Visualization](https://last9.io/blog/opentelemetry-visualization)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
