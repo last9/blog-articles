@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Syslog Formats: A Quick and Easy Guide](https://last9.io/blog/syslog-formats)
+- [High Cardinality Explained: The Basics Without the Jargon](https://last9.io/blog/high-cardinality-explained-the-basics-without-the-jargon)
 - [Elastic vs. Splunk: Which One Is Right for You?](https://last9.io/blog/elastic-vs-splunk)
 - [Log Retention: Policies, Best Practices &amp; Tools &lpar;With Examples&rpar;](https://last9.io/blog/log-retention)
 - [Telemetry Data Platform: Everything You Need to Know](https://last9.io/blog/telemetry-data-platform)
-- [Types of Pods in Kubernetes: An In-depth Guide](https://last9.io/blog/types-of-pods-in-kubernetes)
-- [Ubuntu System Logs: How to Find and Use Them](https://last9.io/blog/ubuntu-system-logs-how-to-find-and-use-them)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
