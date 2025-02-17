@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Easy Guide to OpenFeature Flagging](https://last9.io/blog/openfeature-flagging)
 - [What is DynamoDB Throttling and How to Fix It](https://last9.io/blog/what-is-dynamodb-throttling-and-how-to-fix-it)
 - [Top 15 OpenTelemetry Questions Answered](https://last9.io/blog/top-opentelemetry-questions-answered)
 - [Understanding Syslog Formats: A Quick and Easy Guide](https://last9.io/blog/syslog-formats)
 - [High Cardinality Explained: The Basics Without the Jargon](https://last9.io/blog/high-cardinality-explained-the-basics-without-the-jargon)
-- [Elastic vs. Splunk: Which One Is Right for You?](https://last9.io/blog/elastic-vs-splunk)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
