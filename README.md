@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux OOM Killer: A Detailed Guide to Memory Management](https://last9.io/blog/understanding-the-linux-oom-killer)
 - [Helm vs Terraform: A Detailed Comparison for Developers](https://last9.io/blog/helm-vs-terraform-a-detailed-comparison)
 - [Tomcat Logs: Locations, Types, Configuration, and Best Practices](https://last9.io/blog/tomcat-logs)
 - [Join Us Virtually at DeveloperWeek US 2025!](https://last9.io/events/join-us-virtually-at-developerweek-us-2025)
 - [Meet Last9 at SRECon Americas 2025!](https://last9.io/events/meet-last9-at-srecon-americas-2025)
-- [Kubernetes QoS Explained: Classes &amp; Resource Management](https://last9.io/blog/kubernetes-qos-explained)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
