@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join Us Virtually at DeveloperWeek US 2025!](https://last9.io/events/join-us-virtually-at-developerweek-us-2025)
 - [Meet Last9 at SRECon Americas 2025!](https://last9.io/events/meet-last9-at-srecon-americas-2025)
 - [Kubernetes QoS Explained: Classes &amp; Resource Management](https://last9.io/blog/kubernetes-qos-explained)
 - [The Ultimate Guide to HAProxy Log Format](https://last9.io/blog/guide-to-haproxy-log-format)
 - [An Easy Guide to OpenFeature Flagging](https://last9.io/blog/openfeature-flagging)
-- [What is DynamoDB Throttling and How to Fix It](https://last9.io/blog/what-is-dynamodb-throttling-and-how-to-fix-it)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
