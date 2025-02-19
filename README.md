@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis Metrics: Monitoring, Performance, and Best Practices](https://last9.io/blog/redis-metrics-monitoring)
 - [How to Use OpenTelemetry for Kubernetes Autoscaling Metrics](https://last9.io/blog/opentelemetry-kubernetes-autoscaling-metrics)
 - [OpenTelemetry vs. ELK: Key Differences and When to Use Each](https://last9.io/blog/opentelemetry-vs-elk)
 - [How to Overcome Challenges and Scale the OpenTelemetry Collector](https://last9.io/blog/scale-the-opentelemetry-collector)
 - [A Quick Guide for OpenTelemetry Python Instrumentation](https://last9.io/blog/opentelemetry-python-instrumentation)
-- [Linux OOM Killer: A Detailed Guide to Memory Management](https://last9.io/blog/understanding-the-linux-oom-killer)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
