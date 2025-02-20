@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry UI: The Ultimate Guide for Developers](https://last9.io/blog/opentelemetry-ui)
 - [The 7 Best Infrastructure Monitoring Tools for Developers in 2025](https://last9.io/blog/best-infrastructure-monitoring-tools-for-developers)
 - [OpenTelemetry Java: A Detailed Guide with Examples and Troubleshooting](https://last9.io/blog/opentelemetry-java-guide-with-examples)
 - [Top 13 Kafka Monitoring Tools You Should Know](https://last9.io/blog/kafka-monitoring-tools)
 - [Redis Metrics: Monitoring, Performance, and Best Practices](https://last9.io/blog/redis-metrics-monitoring)
-- [How to Use OpenTelemetry for Kubernetes Autoscaling Metrics](https://last9.io/blog/opentelemetry-kubernetes-autoscaling-metrics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
