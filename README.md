@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use OpenSearch with Python for Search and Analytics](https://last9.io/blog/how-to-use-opensearch-with-python)
 - [MongoDB Monitoring: Everything You Need to Know](https://last9.io/blog/mongodb-monitoring)
 - [An In-Depth Guide to Java Performance Monitoring for SREs](https://last9.io/blog/java-performance-monitoring)
 - [Integrating OpenTelemetry with Grafana for Better Observability](https://last9.io/blog/opentelemetry-with-grafana)
 - [OpenTelemetry UI: The Ultimate Guide for Developers](https://last9.io/blog/opentelemetry-ui)
-- [The 7 Best Infrastructure Monitoring Tools for Developers in 2025](https://last9.io/blog/best-infrastructure-monitoring-tools-for-developers)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
