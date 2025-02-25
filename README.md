@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Grafana Alternatives: Open-Source &amp; Commercial](https://last9.io/blog/best-grafana-alternatives-open-source-commercial)
 - [OpenTelemetry Metrics Aggregation: A Detailed Guide](https://last9.io/blog/opentelemetry-metrics-aggregation)
 - [The 9 Best Sentry Alternatives for Error Monitoring in 2025](https://last9.io/blog/the-best-sentry-alternatives)
 - [How to Build Observability into Chaos Engineering](https://last9.io/blog/how-to-build-observability-into-chaos-engineering)
 - [How to Implement OpenTelemetry in Next.js](https://last9.io/blog/how-to-implement-opentelemetry-in-next-js)
-- [Deploying Prometheus with Docker Compose: A Step-by-Step Guide](https://last9.io/blog/prometheus-with-docker-compose)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
