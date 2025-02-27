@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About OpenTelemetry Agents](https://last9.io/blog/opentelemetry-agents)
 - [A Guide to Configuring Logback for Java Applications](https://last9.io/blog/configuring-logback-for-java-applications)
 - [Getting Started with OpenTelemetry for Browser Monitoring](https://last9.io/blog/getting-started-with-opentelemetry-for-browser-monitoring)
 - [How to Implement OpenTelemetry in NestJS](https://last9.io/blog/opentelemetry-in-nestjs)
 - [Elasticsearch Reindex API: A Guide to Data Management](https://last9.io/blog/elasticsearch-reindex-api)
-- [Pino Logger: The Fastest and Efficient Node.js Logging Library](https://last9.io/blog/npm-pino-logger)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
