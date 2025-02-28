@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus Functions: How to Make the Most of Your Metrics](https://last9.io/blog/prometheus-functions)
 - [9 Powerful Zabbix Alternatives You Shouldn’t Ignore](https://last9.io/blog/zabbix-alternatives)
 - [Your Go-To Linux Commands Cheat Sheet](https://last9.io/blog/linux-commands-cheat-sheet)
 - [How to Effectively Monitor Nginx and Prevent Downtime](https://last9.io/blog/monitor-nginx)
 - [Everything You Need to Know About OpenTelemetry Agents](https://last9.io/blog/opentelemetry-agents)
-- [A Guide to Configuring Logback for Java Applications](https://last9.io/blog/configuring-logback-for-java-applications)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
