@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing the &quot;java.lang.OutOfMemoryError: Java heap space&quot; Error](https://last9.io/blog/java-lang-outofmemoryerror)
+- [CloudFront on AWS: Basics &amp; Setup Guide](https://last9.io/blog/cloudfront-on-aws-basics-setup-guide)
 - [Meet Last9 at DevOpsDays Chicago 2025](https://last9.io/events/meet-last9-at-devopsdays-chicago-2025)
 - [OpenTelemetry vs. Datadog: Key Differences Explained](https://last9.io/blog/opentelemetry-vs-datadog)
 - [Prometheus Functions: How to Make the Most of Your Metrics](https://last9.io/blog/prometheus-functions)
-- [9 Powerful Zabbix Alternatives You Shouldn’t Ignore](https://last9.io/blog/zabbix-alternatives)
-- [Your Go-To Linux Commands Cheat Sheet](https://last9.io/blog/linux-commands-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
