@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use journalctl --last to Check Recent System Logs](https://last9.io/blog/how-to-use-journalctl-last)
 - [What is OOM? A Guide to Out of Memory Issues](https://last9.io/blog/what-is-oom)
 - [Fixing the &quot;java.lang.OutOfMemoryError: Java heap space&quot; Error](https://last9.io/blog/java-lang-outofmemoryerror)
 - [CloudFront on AWS: Basics &amp; Setup Guide](https://last9.io/blog/cloudfront-on-aws-basics-setup-guide)
 - [Meet Last9 at DevOpsDays Chicago 2025](https://last9.io/events/meet-last9-at-devopsdays-chicago-2025)
-- [OpenTelemetry vs. Datadog: Key Differences Explained](https://last9.io/blog/opentelemetry-vs-datadog)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
