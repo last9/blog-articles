@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nginx Error Logs: Troubleshooting and Security Guide](https://last9.io/blog/nginx-error-logs)
+- [EC2 Monitoring: A Practical Guide for AWS Engineers](https://last9.io/blog/ec2-monitoring)
 - [How to Use journalctl --last to Check Recent System Logs](https://last9.io/blog/how-to-use-journalctl-last)
 - [What is OOM? A Guide to Out of Memory Issues](https://last9.io/blog/what-is-oom)
 - [Fixing the &quot;java.lang.OutOfMemoryError: Java heap space&quot; Error](https://last9.io/blog/java-lang-outofmemoryerror)
-- [CloudFront on AWS: Basics &amp; Setup Guide](https://last9.io/blog/cloudfront-on-aws-basics-setup-guide)
-- [Meet Last9 at DevOpsDays Chicago 2025](https://last9.io/events/meet-last9-at-devopsdays-chicago-2025)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
