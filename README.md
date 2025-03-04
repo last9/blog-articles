@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Golang ORMs: A Beginner&#39;s Guide](https://last9.io/blog/getting-started-with-golang-orms)
+- [Backup select services to Cold Storage](https://last9.io/changelog/backup-select-service-to-cold-storage)
 - [The Complete Guide to OpenTelemetry and APM](https://last9.io/blog/opentelemetry-and-apm)
 - [Nginx Error Logs: Troubleshooting and Security Guide](https://last9.io/blog/nginx-error-logs)
 - [EC2 Monitoring: A Practical Guide for AWS Engineers](https://last9.io/blog/ec2-monitoring)
-- [How to Use journalctl --last to Check Recent System Logs](https://last9.io/blog/how-to-use-journalctl-last)
-- [What is OOM? A Guide to Out of Memory Issues](https://last9.io/blog/what-is-oom)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
