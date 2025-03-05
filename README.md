@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Container Resource Monitoring with docker stats](https://last9.io/blog/container-resource-monitoring-with-docker-stats)
 - [Why Server Health Monitoring Matters &lpar;And How to Do It Right&rpar;](https://last9.io/blog/server-health-monitoring)
 - [Connect with Last9 at DevOps 2.0 Confex &amp; Awards 2025](https://last9.io/events/connect-with-last9-at-devops-2-0-confex-awards-2025)
 - [The Ultimate Guide to Docker Clear Logs](https://last9.io/blog/docker-clear-logs)
 - [How to Read System Logs Without the Headache](https://last9.io/blog/system-logs)
-- [Windows Event Logs: Monitoring, Alerts, and Compliance](https://last9.io/blog/windows-event-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
