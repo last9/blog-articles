@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Docker Clear Logs](https://last9.io/blog/docker-clear-logs)
+- [How to Read System Logs Without the Headache](https://last9.io/blog/system-logs)
 - [Windows Event Logs: Monitoring, Alerts, and Compliance](https://last9.io/blog/windows-event-logs)
 - [Everything You Need to Know About SIEM Logs](https://last9.io/blog/siem-logs)
 - [Getting Started with the Grafana API: Practical Use Cases](https://last9.io/blog/getting-started-with-the-grafana-api)
-- [Python Logging Exceptions: The Setup Guide You Actually Need](https://last9.io/blog/python-logging-exceptions)
-- [Getting Started with Golang ORMs: A Beginner&#39;s Guide](https://last9.io/blog/getting-started-with-golang-orms)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
