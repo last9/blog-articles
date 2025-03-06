@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenSearch Operator: Deployment, Scaling, and Optimization](https://last9.io/blog/opensearch-operator)
 - [Prometheus API: From Basics to Advanced Usage](https://last9.io/blog/prometheus-api)
 - [journalctl Commands Cheatsheet for Troubleshooting](https://last9.io/blog/journalctl-commands-cheatsheet)
 - [An In-depth Guide on Ubuntu ZFS Guide](https://last9.io/blog/an-in-depth-guide-on-ubuntu-zfs-guide)
 - [Meet Last9 at the 5th Edition DevOps Conclave &amp; Awards 2025!](https://last9.io/events/5th-edition-devops-conclave-awards-2025)
-- [Advanced Container Resource Monitoring with docker stats](https://last9.io/blog/container-resource-monitoring-with-docker-stats)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
