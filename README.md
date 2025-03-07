@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch vs. Solr: What Developers Need to Know in 2025](https://last9.io/blog/elasticsearch-vs-solr)
+- [How to Make the Most of Redis Pipeline](https://last9.io/blog/how-to-make-the-most-of-redis-pipeline)
 - [Last9 Feb ‘25 Recap: What’s New](https://last9.io/blog/feb-25-recap)
 - [Dynatrace vs. AppDynamics: 2025 Performance Monitoring Guide](https://last9.io/blog/dynatrace-vs-appdynamics)
 - [Nginx Logging: A Complete Guide for Beginners](https://last9.io/blog/nginx-logging)
-- [OpenSearch Operator: Deployment, Scaling, and Optimization](https://last9.io/blog/opensearch-operator)
-- [Prometheus API: From Basics to Advanced Usage](https://last9.io/blog/prometheus-api)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
