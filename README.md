@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging Best Practices to Reduce Noise and Improve Insights](https://last9.io/blog/logging-best-practices)
 - [High vs Low Cardinality: Is Your Observability Stack Failing?](https://last9.io/blog/high-vs-low-cardinality)
 - [Elasticsearch vs. Solr: What Developers Need to Know in 2025](https://last9.io/blog/elasticsearch-vs-solr)
 - [How to Make the Most of Redis Pipeline](https://last9.io/blog/how-to-make-the-most-of-redis-pipeline)
 - [Last9 Feb ‘25 Recap: What’s New](https://last9.io/blog/feb-25-recap)
-- [Dynatrace vs. AppDynamics: 2025 Performance Monitoring Guide](https://last9.io/blog/dynatrace-vs-appdynamics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
