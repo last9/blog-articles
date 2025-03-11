@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP Error Logs: The Complete Troubleshooting Guide You Need](https://last9.io/blog/php-error-logs)
 - [Getting Started with OpenTelemetry JavaScript](https://last9.io/blog/getting-started-with-opentelemetry-javascript)
 - [Auto Instrumentation: An In-Depth Guide](https://last9.io/blog/what-is-auto-instrumentation)
 - [High Cardinality Is Eating Your Storage Budget—Here’s Why](https://last9.io/blog/high-cardinality-is-eating-your-storage-budget)
 - [A Guide to Fixing Kafka Consumer Lag [Without Jargon]](https://last9.io/blog/fixing-kafka-consumer-lag)
-- [Retrieving All Keys in Redis: Commands &amp; Best Practices](https://last9.io/blog/retrieving-all-keys-in-redis)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
