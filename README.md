@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Log Data? The SRE&#39;s Essential Guide](https://last9.io/blog/what-is-log-data)
 - [Performance Impact of High Cardinality in Time-Series DBs](https://last9.io/blog/performance-implications-of-high-cardinality-in-time-series-databases)
 - [Syslog Monitoring: A Guide to Log Management and Analysis](https://last9.io/blog/syslog-monitoring)
 - [Prometheus Port Configuration: A Detailed Guide](https://last9.io/blog/prometheus-port-configuration)
 - [How to Configure SAML SSO with Keycloak](https://last9.io/blog/how-to-configure-saml-sso-with-keycloak)
-- [PHP Error Logs: The Complete Troubleshooting Guide You Need](https://last9.io/blog/php-error-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
