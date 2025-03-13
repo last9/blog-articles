@@ -5,7 +5,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Essential Prometheus Queries: Simple to Advanced](https://last9.io/blog/prometheus-query-examples)
 - [How to Set Up Logging in Node.js &lpar;Without Overthinking It&rpar;](https://last9.io/blog/how-to-set-up-logging-in-node-js)
 - [The Complete Guide to Monitoring Container CPU Usage](https://last9.io/blog/monitoring-container-cpu-usage)
-- [ETL vs ELT for Telemetry Data: Technical Approaches and Practical Tradeoffs](https://last9.io/blog/etl-vs-elt-for-telemetry-data)
+- [ETL vs ELT for Observability: Technical Approaches and Practical Tradeoffs](https://last9.io/blog/etl-vs-elt-for-telemetry-data)
 - [A Practical Guide to the OpenTelemetry Java Agent](https://last9.io/blog/opentelemetry-java-agent)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
