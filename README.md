@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Monitoring Container CPU Usage](https://last9.io/blog/monitoring-container-cpu-usage)
 - [ETL vs ELT for Telemetry Data: Technical Approaches and Practical Tradeoffs](https://last9.io/blog/etl-vs-elt-for-telemetry-data)
 - [A Practical Guide to the OpenTelemetry Java Agent](https://last9.io/blog/opentelemetry-java-agent)
 - [How Do Dropwizard Metrics Help Monitor Application Performance?](https://last9.io/blog/dropwizard-metrics)
 - [What is Log Data? The SRE&#39;s Essential Guide](https://last9.io/blog/what-is-log-data)
-- [Performance Impact of High Cardinality in Time-Series DBs](https://last9.io/blog/performance-implications-of-high-cardinality-in-time-series-databases)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
