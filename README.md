@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to the OpenTelemetry Java Agent](https://last9.io/blog/opentelemetry-java-agent)
 - [How Do Dropwizard Metrics Help Monitor Application Performance?](https://last9.io/blog/dropwizard-metrics)
 - [What is Log Data? The SRE&#39;s Essential Guide](https://last9.io/blog/what-is-log-data)
 - [Performance Impact of High Cardinality in Time-Series DBs](https://last9.io/blog/performance-implications-of-high-cardinality-in-time-series-databases)
 - [Syslog Monitoring: A Guide to Log Management and Analysis](https://last9.io/blog/syslog-monitoring)
-- [Prometheus Port Configuration: A Detailed Guide](https://last9.io/blog/prometheus-port-configuration)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
