@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack Observability: What It Is [Minus the Fluff]](https://last9.io/blog/what-is-full-stack-observability)
 - [Less War, More Room: Breaking Down Operational Silos](https://last9.io/blog/breaking-down-operational-silos)
 - [Essential Prometheus Queries: Simple to Advanced](https://last9.io/blog/prometheus-query-examples)
 - [How to Set Up Logging in Node.js &lpar;Without Overthinking It&rpar;](https://last9.io/blog/how-to-set-up-logging-in-node-js)
 - [The Complete Guide to Monitoring Container CPU Usage](https://last9.io/blog/monitoring-container-cpu-usage)
-- [ETL vs ELT for Observability: Technical Approaches and Practical Tradeoffs](https://last9.io/blog/etl-vs-elt-for-telemetry-data)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
