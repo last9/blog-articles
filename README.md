@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is CDN? The Complete Guide for DevOps Engineers](https://last9.io/blog/what-is-cdn)
 - [Your Observability Questions, Answered](https://last9.io/blog/your-observability-questions-answered)
 - [Website Logging: Everything You Need to Get Started](https://last9.io/blog/website-logging)
 - [OpenTelemetry Backends: A Practical Implementation Guide](https://last9.io/blog/opentelemetry-backends)
 - [Log File Analysis: A Guide for DevOps Engineers](https://last9.io/blog/log-file-analysis)
-- [Syslog Servers Explained: How They Help with Logging](https://last9.io/blog/syslog-servers-explained)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
