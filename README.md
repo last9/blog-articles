@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [An In-Depth Metricbeat Guide for DevOps Teams](https://last9.io/blog/metricbeat-guide-for-devops-teams)
 - [No-Jargon Guide to Application Dependency Mapping](https://last9.io/blog/guide-to-application-dependency-mapping)
 - [What Is CDN? The Complete Guide for DevOps Engineers](https://last9.io/blog/what-is-cdn)
+- [API Catalog: Track Your Endpoint Performance](https://last9.io/changelog/api-catalog-track-your-endpoint-performance)
 - [Your Observability Questions, Answered](https://last9.io/blog/your-observability-questions-answered)
-- [Website Logging: Everything You Need to Get Started](https://last9.io/blog/website-logging)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
