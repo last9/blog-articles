@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End Monitoring: Your Guide to System Visibility](https://last9.io/blog/end-to-end-monitoring)
 - [Zero Code Instrumentation: The Missing Link in Observability](https://last9.io/blog/zero-code-instrumentation)
 - [Observability Pipeline: An Easy-to-Follow Guide for Engineers](https://last9.io/blog/observability-pipeline)
 - [An In-Depth Metricbeat Guide for DevOps Teams](https://last9.io/blog/metricbeat-guide-for-devops-teams)
 - [No-Jargon Guide to Application Dependency Mapping](https://last9.io/blog/guide-to-application-dependency-mapping)
-- [What Is CDN? The Complete Guide for DevOps Engineers](https://last9.io/blog/what-is-cdn)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
