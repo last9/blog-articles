@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose Health Checks: An Easy-to-follow Guide](https://last9.io/blog/docker-compose-health-checks)
 - [An Easy and Comprehensive Guide to Prometheus API](https://last9.io/blog/prometheus-api-guide)
 - [SRECon Americas 2025 Recap Day 1](https://last9.io/blog/srecon-americas-2025-recap-day-1)
 - [Linux Event Logs: Your Troubleshooting Guide](https://last9.io/blog/linux-event-logs-your-troubleshooting-guide)
 - [Ubuntu Crash Logs: Find, Fix, and Prevent System Failures](https://last9.io/blog/ubuntu-crash-logs)
-- [RabbitMQ Logs: Monitoring, Troubleshooting &amp; Configuration](https://last9.io/blog/rabbitmq-logs-monitoring-troubleshooting-configuration)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
