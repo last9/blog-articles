@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Logs: Your Guide for Database Performance](https://last9.io/blog/mysql-logs)
+- [Last9 MCP Server: Fix Production Issues in Your Local Environment](https://last9.io/blog/launching-last9-mcp-server)
 - [SRECon Americas 2025 Recap Day 2](https://last9.io/blog/srecon-americas-2025-recap-day-2)
 - [Getting Started with E-commerce Audit Logs: A Simple Guide](https://last9.io/blog/getting-started-with-e-commerce-audit-logs)
 - [21 PromQL Tricks Every Developer Should Know](https://last9.io/blog/promql-tricks-you-should-know)
-- [Docker Compose Health Checks: An Easy-to-follow Guide](https://last9.io/blog/docker-compose-health-checks)
-- [An Easy and Comprehensive Guide to Prometheus API](https://last9.io/blog/prometheus-api-guide)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
