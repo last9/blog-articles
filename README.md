@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SRECon Americas 2025 Recap Day 3](https://last9.io/blog/srecon-americas-2025-recap-day-3)
 - [Python Loguru: The Logging Cheat Code You Need in Your Life](https://last9.io/blog/python-loguru)
 - [New Relic vs Datadog: The Complete Comparison](https://last9.io/blog/new-relic-vs-datadog)
 - [MySQL Logs: Your Guide for Database Performance](https://last9.io/blog/mysql-logs)
 - [Last9 MCP Server: Fix Production Issues in Your Local Environment](https://last9.io/blog/launching-last9-mcp-server)
+- [SRECon Americas 2025 Recap Day 3](https://last9.io/blog/srecon-americas-2025-recap-day-3)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
