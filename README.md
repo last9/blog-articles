@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Should You Enable Trace-Level Logging?](https://last9.io/blog/trace-level-logging)
 - [9 Best Container Monitoring Tools You Should Know in 2025](https://last9.io/blog/best-container-monitoring-tools)
 - [Breaking Down Splunk Costs for SREs and DevOps Teams](https://last9.io/blog/breaking-down-splunk-costs)
 - [Reliability vs Availability: A Simple Breakdown](https://last9.io/blog/reliability-vs-availability)
 - [Java Logging: Troubleshooting Tips and Best Practices](https://last9.io/blog/java-logging-troubleshooting-tips-and-best-practices)
-- [Python Loguru: The Logging Cheat Code You Need in Your Life](https://last9.io/blog/python-loguru)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
