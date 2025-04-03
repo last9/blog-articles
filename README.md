@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure ContainerPort in Kubernetes &lpar;The Easy Way&rpar;](https://last9.io/blog/containerport-kubernetes)
+- [Log4j vs Log4j2: Which Logging Framework Should You Choose](https://last9.io/blog/log4j-vs-log4j2)
 - [Why Do You Need a Redis Monitor in Place?](https://last9.io/blog/redis-monitor)
 - [How Sumo Logic Pricing Works](https://last9.io/blog/how-sumo-logic-pricing-works)
 - [When Should You Enable Trace-Level Logging?](https://last9.io/blog/trace-level-logging)
-- [9 Best Container Monitoring Tools You Should Know in 2025](https://last9.io/blog/best-container-monitoring-tools)
-- [Breaking Down Splunk Costs for SREs and DevOps Teams](https://last9.io/blog/breaking-down-splunk-costs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
