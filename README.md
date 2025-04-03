@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [How to Master Log Management with Logrotate in Docker Containers](https://last9.io/blog/logrotate-in-docker-containers)
 - [How to Configure ContainerPort in Kubernetes &lpar;The Easy Way&rpar;](https://last9.io/blog/containerport-kubernetes)
 - [Log4j vs Log4j2: Which Logging Framework Should You Choose](https://last9.io/blog/log4j-vs-log4j2)
+- [Pinned Dashboards &amp; Webhook for Alerts](https://last9.io/changelog/pinned-dashboards-webhook-for-alerts)
 - [Why Do You Need a Redis Monitor in Place?](https://last9.io/blog/redis-monitor)
-- [How Sumo Logic Pricing Works](https://last9.io/blog/how-sumo-logic-pricing-works)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
