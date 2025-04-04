@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Ubuntu Performance Monitoring](https://last9.io/blog/ubuntu-performance-monitoring)
 - [The Role of Log Shippers in Your Stack](https://last9.io/blog/th-guide-to-log-shippers)
 - [Best 6 AWS EC2 Alternatives for DevOps Teams in 2025](https://last9.io/blog/best-aws-ec2-alternatives-for-devops-teams)
 - [How to Master Log Management with Logrotate in Docker Containers](https://last9.io/blog/logrotate-in-docker-containers)
 - [How to Configure ContainerPort in Kubernetes &lpar;The Easy Way&rpar;](https://last9.io/blog/containerport-kubernetes)
-- [Log4j vs Log4j2: Which Logging Framework Should You Choose](https://last9.io/blog/log4j-vs-log4j2)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
