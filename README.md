@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java GC Logs: How to Read and Debug Fast](https://last9.io/blog/java-gc-logs)
 - [Pod Memory Usage: Tracking, Commands &amp; Troubleshooting](https://last9.io/blog/pod-memory-usage)
 - [API Latency: Definition, Measurement, and Optimization Techniques](https://last9.io/blog/api-latency)
 - [The Ultimate Guide to Ubuntu Performance Monitoring](https://last9.io/blog/ubuntu-performance-monitoring)
 - [The Role of Log Shippers in Your Stack](https://last9.io/blog/th-guide-to-log-shippers)
-- [Best 6 AWS EC2 Alternatives for DevOps Teams in 2025](https://last9.io/blog/best-aws-ec2-alternatives-for-devops-teams)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
