@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Last9 at the 6th DevOps Conclave &amp; Awards 2025](https://last9.io/blog/meet-last9-at-the-6th-devops-conclave-awards-2025)
+- [Meet Last9 at the 6th DevOps Conclave &amp; Awards 2025](https://last9.io/events/meet-last9-at-the-6th-devops-conclave-awards-2025)
 - [An Easy Guide to Pausing Docker Containers](https://last9.io/blog/pausing-docker-containers)
 - [Essential Unix Commands Cheat Sheet for DevOps Engineers](https://last9.io/blog/essential-unix-commands-cheat-sheet)
 - [Java GC Logs: How to Read and Debug Fast](https://last9.io/blog/java-gc-logs)
