@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry for Spring: Full Implementation Guide](https://last9.io/blog/opentelemetry-for-spring)
 - [Java Util Logging Configuration: A Practical Guide for DevOps &amp; SREs](https://last9.io/blog/java-util-logging-configuration)
 - [Meet Last9 at the 6th DevOps Conclave &amp; Awards 2025](https://last9.io/events/meet-last9-at-the-6th-devops-conclave-awards-2025)
 - [An Easy Guide to Pausing Docker Containers](https://last9.io/blog/pausing-docker-containers)
 - [Essential Unix Commands Cheat Sheet for DevOps Engineers](https://last9.io/blog/essential-unix-commands-cheat-sheet)
-- [Java GC Logs: How to Read and Debug Fast](https://last9.io/blog/java-gc-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
