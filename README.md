@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging vs Monitoring: What’s the Real Difference?](https://last9.io/blog/logging-vs-monitoring)
 - [Debug Logging: A Comprehensive Guide for Developers](https://last9.io/blog/debug-logging)
 - [Observability vs APM: What’s the Real Difference?](https://last9.io/blog/observability-vs-apm)
 - [Last9 Engineering Leaders Mixer – Bengaluru Edition](https://last9.io/events/last9-engineering-leaders-mixer-bengaluru-edition)
 - [How to Use Prometheus for APM](https://last9.io/blog/prometheus-apm)
-- [Regex Optimization Techniques: 14 Methods for DevOps Performance](https://last9.io/blog/regex-optimization-techniques)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
