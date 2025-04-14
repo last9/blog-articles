@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Monitoring Metrics: What to Track &amp; Why It Matters](https://last9.io/blog/database-monitoring-metrics)
 - [Histogram Buckets in Prometheus Made Simple](https://last9.io/blog/histogram-buckets-in-prometheus)
 - [How to Use OpenTelemetry with Postgres](https://last9.io/blog/how-to-use-opentelemetry-with-postgres)
 - [Logging vs Monitoring: What’s the Real Difference?](https://last9.io/blog/logging-vs-monitoring)
 - [Debug Logging: A Comprehensive Guide for Developers](https://last9.io/blog/debug-logging)
-- [Observability vs APM: What’s the Real Difference?](https://last9.io/blog/observability-vs-apm)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
