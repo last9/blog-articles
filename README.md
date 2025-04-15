@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know to Start Monitoring Postgres](https://last9.io/blog/monitoring-postgres)
 - [What is /var/log: Understanding Linux System Logs](https://last9.io/blog/what-is-var-log)
 - [Log Consolidation Made Easy for DevOps Teams](https://last9.io/blog/log-consolidation)
 - [APM Observability: A Practical Guide for DevOps and SREs](https://last9.io/blog/apm-observability)
 - [Getting Started with Prometheus Metrics Endpoints](https://last9.io/blog/getting-started-with-prometheus-metrics-endpoints)
-- [Troubleshooting LoggerFactory Logging Issues](https://last9.io/blog/troubleshooting-loggerfactory-logging-issues)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
