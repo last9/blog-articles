@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APM Observability: A Practical Guide for DevOps and SREs](https://last9.io/blog/apm-observability)
 - [Getting Started with Prometheus Metrics Endpoints](https://last9.io/blog/getting-started-with-prometheus-metrics-endpoints)
 - [Troubleshooting LoggerFactory Logging Issues](https://last9.io/blog/troubleshooting-loggerfactory-logging-issues)
 - [Database Monitoring Metrics: What to Track &amp; Why It Matters](https://last9.io/blog/database-monitoring-metrics)
 - [Histogram Buckets in Prometheus Made Simple](https://last9.io/blog/histogram-buckets-in-prometheus)
-- [How to Use OpenTelemetry with Postgres](https://last9.io/blog/how-to-use-opentelemetry-with-postgres)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
