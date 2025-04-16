@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Getting Started with Elastic Load Balancer &lpar;ELB&rpar; Metrics](https://last9.io/blog/elastic-load-balancer-elb-metrics)
 - [A Closer Look at Docker Build Logs for Troubleshooting](https://last9.io/blog/docker-build-logs)
 - [How to Connect ELK Stack with Grafana](https://last9.io/blog/how-to-connect-elk-stack-with-grafana)
+- [Scheduled Search Alerts on Log Aggregation Queries](https://last9.io/changelog/scheduled-search-alerts-on-log-aggregation-queries)
 - [Everything You Need to Know to Start Monitoring Postgres](https://last9.io/blog/monitoring-postgres)
-- [What is /var/log: Understanding Linux System Logs](https://last9.io/blog/what-is-var-log)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
