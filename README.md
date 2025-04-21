@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Monitoring Disk I/O on Linux](https://last9.io/blog/monitoring-disk-io-on-linux)
 - [Apache Cassandra Monitoring: Tools, Challenges &amp; Best Practices](https://last9.io/blog/apache-cassandra-monitoring)
 - [GDPR Log Management: A Practical Guide for Engineers](https://last9.io/blog/gdpr-log-management)
 - [Ubuntu var log messages: A Complete Guide for System Admins](https://last9.io/blog/ubuntu-var-log-messages)
 - [Getting Started with Elastic Load Balancer &lpar;ELB&rpar; Metrics](https://last9.io/blog/elastic-load-balancer-elb-metrics)
-- [A Closer Look at Docker Build Logs for Troubleshooting](https://last9.io/blog/docker-build-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
