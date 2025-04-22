@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zabbix vs Grafana: Which Monitoring Tool Fits You Best?](https://last9.io/blog/zabbix-vs-grafana)
 - [Loki vs Prometheus: Side-by-Side Comparison for Logs and Metrics](https://last9.io/blog/loki-vs-prometheus)
 - [Distributed Network Monitoring: Guide to Getting Started &amp; Troubleshooting](https://last9.io/blog/distributed-network-monitoring-guide)
 - [7 Top ELK Alternatives: Finding the Right Observability Stack](https://last9.io/blog/top-elk-alternatives)
 - [Dine With DevOps III – Bengaluru Edition](https://last9.io/events/dine-with-devops-bengaluru-edition)
-- [How to Use MySQL Performance Analyzer](https://last9.io/blog/mysql-performance-analyzer)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
