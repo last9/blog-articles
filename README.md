@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Top ELK Alternatives: Finding the Right Observability Stack](https://last9.io/blog/top-elk-alternatives)
+- [Dine With DevOps III – Bengaluru Edition](https://last9.io/events/dine-with-devops-bengaluru-edition)
 - [How to Use MySQL Performance Analyzer](https://last9.io/blog/mysql-performance-analyzer)
 - [A Comprehensive Guide to Monitoring Disk I/O on Linux](https://last9.io/blog/monitoring-disk-io-on-linux)
 - [Apache Cassandra Monitoring: Tools, Challenges &amp; Best Practices](https://last9.io/blog/apache-cassandra-monitoring)
-- [GDPR Log Management: A Practical Guide for Engineers](https://last9.io/blog/gdpr-log-management)
-- [Ubuntu var log messages: A Complete Guide for System Admins](https://last9.io/blog/ubuntu-var-log-messages)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
