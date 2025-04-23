@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Metrics Monitoring: The Only Guide You&#39;ll Need](https://last9.io/blog/metrics-monitoring)
 - [Getting Started with OpenTelemetry Custom Metrics](https://last9.io/blog/getting-started-with-opentelemetry-custom-metrics)
 - [Traces &amp; Spans: Observability Basics You Should Know](https://last9.io/blog/traces-spans-observability-basics)
 - [Meet Last9 at AWS Summit Bangalore 2025](https://last9.io/events/meet-last9-at-aws-summit-bangalore-2025)
 - [Zabbix vs Grafana: Which Monitoring Tool Fits You Best?](https://last9.io/blog/zabbix-vs-grafana)
-- [Loki vs Prometheus: Side-by-Side Comparison for Logs and Metrics](https://last9.io/blog/loki-vs-prometheus)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
