@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About OpenTelemetry Histograms](https://last9.io/blog/opentelemetry-histograms)
 - [How Does OpenTelemetry Logging Work?](https://last9.io/blog/how-does-opentelemetry-logging-work)
 - [Why Should You Care About Endpoint Monitoring?](https://last9.io/blog/endpoint-monitoring)
 - [Why Grafana&#39;s Rate Function Is Your Dashboard&#39;s Best Kept Secret](https://last9.io/blog/grafana-rate-function)
 - [How to Use OpenTelemetry with Your GraphQL Stack](https://last9.io/blog/opentelemetry-with-graphql)
-- [Metrics Monitoring: The Only Guide You&#39;ll Need](https://last9.io/blog/metrics-monitoring)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
