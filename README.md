@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding OpenTelemetry to Your React Apps: A Practical Guide](https://last9.io/blog/adding-opentelemetry-to-your-react-apps)
 - [What is API Monitoring and How to Build API Metrics Dashboards](https://last9.io/blog/api-monitoring-and-api-metrics-dashboards)
 - [The Ultimate HBase Monitoring Guide for Engineers](https://last9.io/blog/hbase-monitoring)
 - [India DevOps Show 2025 Mumbai Edition](https://last9.io/events/india-devops-summit-2025)
 - [Last9 - Dinner with SRE/DevOps Leaders](https://last9.io/events/last9-dinner-with-sre-devops-leaders)
-- [Correlation ID vs Trace ID: Understanding the Key Differences](https://last9.io/blog/correlation-id-vs-trace-id)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
