@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to GCP Logs for DevOps Engineers](https://last9.io/blog/gcp-logs)
+- [What Is a Logging Formatter and Why Use One?](https://last9.io/blog/what-is-a-logging-formatter)
 - [Simplifying Container Observability for DevOps Teams](https://last9.io/blog/container-observability)
 - [Join Us at the AWS Summit Mumbai Edition 2025](https://last9.io/events/aws-summit-2025)
 - [Apache Tomcat Performance Monitoring: Basics and Troubleshooting Tips](https://last9.io/blog/apache-tomcat-performance-monitoring)
-- [A Guide to OpenTelemetry Tracing in Distributed Systems](https://last9.io/blog/opentelemetry-tracing)
-- [RUM vs Synthetic Monitoring: Understanding the Core Differences](https://last9.io/blog/rum-vs-synthetic-monitoring)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
