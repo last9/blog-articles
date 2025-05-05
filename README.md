@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Docker Logging Drivers Work](https://last9.io/blog/docker-logging-drivers)
 - [React Logging: How to Implement It Right and Debug Faster](https://last9.io/blog/react-logging)
 - [Easily Query Multiple Metrics in Prometheus](https://last9.io/blog/query-multiple-metrics-in-prometheus)
 - [Apache Logs Explained: A Guide for Effective Troubleshooting](https://last9.io/blog/apache-logs-explained)
 - [A Practical Guide to Monitoring Ubuntu Servers](https://last9.io/blog/monitoring-ubuntu-servers)
-- [AWS Centralized Logging: A Complete Implementation Guide](https://last9.io/blog/aws-centralized-logging)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
