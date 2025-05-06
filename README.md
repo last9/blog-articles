@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to OpenTelemetry Exporters for High-Performance Monitoring](https://last9.io/blog/opentelemetry-exporters)
 - [Getting Started with Jaeger for Distributed Tracing](https://last9.io/blog/jaeger-for-distributed-tracing)
 - [How Docker Logging Drivers Work](https://last9.io/blog/docker-logging-drivers)
 - [React Logging: How to Implement It Right and Debug Faster](https://last9.io/blog/react-logging)
 - [Easily Query Multiple Metrics in Prometheus](https://last9.io/blog/query-multiple-metrics-in-prometheus)
-- [Apache Logs Explained: A Guide for Effective Troubleshooting](https://last9.io/blog/apache-logs-explained)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
