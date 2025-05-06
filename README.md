@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Observability: Monitoring, Troubleshooting, and Best Practices](https://last9.io/blog/sql-server-observability)
 - [OpenTelemetry Collector vs Exporter: Understanding the Key Differences](https://last9.io/blog/opentelemetry-collector-vs-exporter)
 - [The Definitive Guide to OpenTelemetry Exporters for High-Performance Monitoring](https://last9.io/blog/opentelemetry-exporters)
 - [Getting Started with Jaeger for Distributed Tracing](https://last9.io/blog/jaeger-for-distributed-tracing)
 - [How Docker Logging Drivers Work](https://last9.io/blog/docker-logging-drivers)
-- [React Logging: How to Implement It Right and Debug Faster](https://last9.io/blog/react-logging)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
