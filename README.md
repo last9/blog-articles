@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Python Monitoring Techniques You Need to Know](https://last9.io/blog/python-performance-monitoring)
 - [The Complete Guide to Node.js Logging Libraries in 2025](https://last9.io/blog/node-js-logging-libraries)
 - [SQL Server Observability: Monitoring, Troubleshooting, and Best Practices](https://last9.io/blog/sql-server-observability)
 - [OpenTelemetry Collector vs Exporter: Understanding the Key Differences](https://last9.io/blog/opentelemetry-collector-vs-exporter)
 - [The Definitive Guide to OpenTelemetry Exporters for High-Performance Monitoring](https://last9.io/blog/opentelemetry-exporters)
-- [Getting Started with Jaeger for Distributed Tracing](https://last9.io/blog/jaeger-for-distributed-tracing)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
