@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Track MongoDB Performance Metrics Without the Noise](https://last9.io/blog/mongodb-performance-metrics)
 - [The Complete Guide to Observing RabbitMQ](https://last9.io/blog/observing-rabbitmq)
 - [Kubernetes Alerting That Won’t Burn You Out](https://last9.io/blog/kubernetes-alerting)
 - [A Detailed Guide on Docker Container Performance Metrics](https://last9.io/blog/docker-container-performance-metrics)
 - [Essential Python Monitoring Techniques You Need to Know](https://last9.io/blog/python-performance-monitoring)
-- [The Complete Guide to Node.js Logging Libraries in 2025](https://last9.io/blog/node-js-logging-libraries)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
