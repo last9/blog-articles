@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular OpenTelemetry Setup and Troubleshooting](https://last9.io/blog/implement-opnetelemetry-angular)
 - [Solr Key Metrics: The Essential Guide for DevOps &amp; SREs](https://last9.io/blog/solr-key-metrics)
 - [CloudWatch vs OpenTelemetry: Choosing What Fits Your Stack](https://last9.io/blog/cloudwatch-vs-opentelemetry)
 - [OpenTelemetry PHP: A Detailed Implementation Guide](https://last9.io/blog/opentelemetry-php)
 - [Track MongoDB Performance Metrics Without the Noise](https://last9.io/blog/mongodb-performance-metrics)
-- [The Complete Guide to Observing RabbitMQ](https://last9.io/blog/observing-rabbitmq)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
