@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics)
 - [How to Handle Logging in Microservices Architectures](https://last9.io/blog/logging-in-microservices-architectures)
 - [JVM Metrics: A Complete Guide for Performance Monitoring](https://last9.io/blog/jvm-metrics)
 - [Linux Security Logs: Complete Guide for DevOps and SysAdmins](https://last9.io/blog/linux-security-logs)
 - [Ubuntu Cron Logs: A Complete Guide for Engineers](https://last9.io/blog/ubuntu-cron-logs)
-- [Angular OpenTelemetry Setup and Troubleshooting](https://last9.io/blog/implement-opnetelemetry-angular)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
