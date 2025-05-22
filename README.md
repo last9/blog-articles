@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry vs Micrometer: Here’s How to Decide](https://last9.io/blog/opentelemetry-vs-micrometer)
 - [.NET Logging with Serilog and OpenTelemetry](https://last9.io/blog/serilog-and-opentelemetry)
 - [Getting Started with Loki for Log Management](https://last9.io/blog/loki-for-log-management)
 - [Grafana Tempo vs Jaeger: Key Features, Differences, and When to Use Each](https://last9.io/blog/grafana-tempo-vs-jaeger)
 - [Top 11 Application Logging Tools for DevOps Engineers in 2025](https://last9.io/blog/top-application-logging-tools)
-- [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
