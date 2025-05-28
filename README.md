@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Logs: How to Collect and Use Them](https://last9.io/blog/kubernetes-logs)
 - [Server Performance Metrics Explained](https://last9.io/blog/server-performance-metrics)
 - [An Easy and Practical Guide to CDN Monitoring](https://last9.io/blog/cdn-monitoring)
 - [Graylog vs Loki: Key Differences and Use Cases](https://last9.io/blog/graylog-vs-loki)
 - [A Simple Guide to Monitoring and Optimizing Prometheus CPU Usage](https://last9.io/blog/prometheus-cpu-usage)
-- [VPC Log Format: Custom and Advanced Configurations](https://last9.io/blog/vpc-log-format)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
