@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Error Logs: Your Guide to Simplified Debugging](https://last9.io/blog/windows-error-logs)
 - [Docker Container Lifecycle: Key States and Best Practices](https://last9.io/blog/docker-container-lifecycle)
 - [Kubernetes Logs: How to Collect and Use Them](https://last9.io/blog/kubernetes-logs)
 - [Server Performance Metrics Explained](https://last9.io/blog/server-performance-metrics)
 - [An Easy and Practical Guide to CDN Monitoring](https://last9.io/blog/cdn-monitoring)
-- [Graylog vs Loki: Key Differences and Use Cases](https://last9.io/blog/graylog-vs-loki)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
