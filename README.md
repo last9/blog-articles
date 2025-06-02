@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus Alerting Examples for Developers](https://last9.io/blog/prometheus-alerting-examples)
 - [Traceparent: How OpenTelemetry Connects Your Microservices](https://last9.io/blog/traceparent-explained)
 - [How Auditd Logs Help Secure Linux Environments](https://last9.io/blog/auditd-logs)
 - [Windows Error Logs: Your Guide to Simplified Debugging](https://last9.io/blog/windows-error-logs)
 - [Docker Container Lifecycle: Key States and Best Practices](https://last9.io/blog/docker-container-lifecycle)
-- [Kubernetes Logs: How to Collect and Use Them](https://last9.io/blog/kubernetes-logs)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
