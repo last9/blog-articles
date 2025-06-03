@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Monitor and Manage Grafana Memory](https://last9.io/blog/grafana-memory-usage)
 - [Graylog vs ELK: Which Log Management Solution Fits Your Stack?](https://last9.io/blog/graylog-vs-elk)
 - [Jaeger vs Zipkin: Which is Right for Your Distributed Tracing](https://last9.io/blog/jaeger-vs-zipkin)
 - [Last9 Engineering Leaders Mixer – Mumbai Edition](https://last9.io/events/engineering-leaders-mixer-mumbai-edition)
 - [Prometheus Alerting Examples for Developers](https://last9.io/blog/prometheus-alerting-examples)
-- [Traceparent: How OpenTelemetry Connects Your Microservices](https://last9.io/blog/traceparent-explained)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
