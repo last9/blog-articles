@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to Linux Log File Locations and Their Usage](https://last9.io/blog/linux-log-file-locations)
 - [How to Integrate OpenTelemetry Collector with Prometheus](https://last9.io/blog/how-to-integrate-opentelemetry-collector-with-prometheus)
 - [How to Configure and Optimize Prometheus Data Retention](https://last9.io/blog/prometheus-data-retention)
 - [How to Log Into a Docker Container](https://last9.io/blog/how-to-log-into-a-docker-container)
 - [How to Monitor and Manage Grafana Memory](https://last9.io/blog/grafana-memory-usage)
-- [Graylog vs ELK: Which Log Management Solution Fits Your Stack?](https://last9.io/blog/graylog-vs-elk)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
