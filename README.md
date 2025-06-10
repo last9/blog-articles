@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join Last9 at the AWS Summit NYC!](https://last9.io/events/join-last9-at-the-aws-summit-nyc)
+- [How to Monitor Kafka Producer Metrics](https://last9.io/blog/kafka-producer-metrics)
 - [A Complete Guide to Linux Log File Locations and Their Usage](https://last9.io/blog/linux-log-file-locations)
 - [How to Integrate OpenTelemetry Collector with Prometheus](https://last9.io/blog/how-to-integrate-opentelemetry-collector-with-prometheus)
 - [How to Configure and Optimize Prometheus Data Retention](https://last9.io/blog/prometheus-data-retention)
-- [How to Log Into a Docker Container](https://last9.io/blog/how-to-log-into-a-docker-container)
-- [How to Monitor and Manage Grafana Memory](https://last9.io/blog/grafana-memory-usage)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
