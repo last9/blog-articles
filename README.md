@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Event Logs](https://last9.io/blog/event-logs)
 - [Fluent Bit Helm Chart: Simplify Log Collection in Kubernetes](https://last9.io/blog/fluent-bit-helm-chart)
 - [An Easy Guide to Getting Started with Elastic APM](https://last9.io/blog/elastic-apm)
 - [Join Last9 at the AWS Summit NYC!](https://last9.io/events/join-last9-at-the-aws-summit-nyc)
 - [How to Monitor Kafka Producer Metrics](https://last9.io/blog/kafka-producer-metrics)
-- [A Complete Guide to Linux Log File Locations and Their Usage](https://last9.io/blog/linux-log-file-locations)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
