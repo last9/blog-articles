@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Log Management and Query Optimization in Kibana](https://last9.io/blog/log-management-and-query-optimization-in-kibana)
 - [Access Logs: Format Specification and Practical Usage](https://last9.io/blog/access-log)
 - [Azure CDN for Static Assets, APIs, and Front Door](https://last9.io/blog/azure-cdn-for-static-assets-apis-and-front-door)
 - [Network Latency: Types, Causes, and Fixes](https://last9.io/blog/network-latency-types-causes-and-fixes)
 - [Everything You Need to Know About Event Logs](https://last9.io/blog/event-logs)
-- [Fluent Bit Helm Chart: Simplify Log Collection in Kubernetes](https://last9.io/blog/fluent-bit-helm-chart)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
