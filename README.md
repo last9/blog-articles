@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon SQS Metrics: Monitor, Debug, and Optimize Your Message Queues](https://last9.io/blog/amazon-sqs-metrics)
 - [11 Best Log Monitoring Tools for Developers in 2025](https://last9.io/blog/log-monitoring-tools-for-developers)
 - [Last9 - Dinner with SRE/Devops Leaders](https://last9.io/events/last9-dinner-with-sre-devops-leaders-dubai)
 - [Prometheus Logging Explained for Developers](https://last9.io/blog/prometheus-logging)
 - [Docker Stop vs Kill: When to Use Each Command](https://last9.io/blog/docker-stop-vs-kill)
-- [Log Management and Query Optimization in Kibana](https://last9.io/blog/log-management-and-query-optimization-in-kibana)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
