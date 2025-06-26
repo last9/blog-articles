@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus and CloudWatch Integration for AWS Metric Collection](https://last9.io/blog/prometheus-cloudwatch-integration-for-aws-metric-collection)
 - [See You at DevOps 2.0 Confex &amp; Awards 2025!](https://last9.io/events/join-usdevops-confex-awards-2025)
 - [How to Configure Docker’s Shared Memory Size &lpar;/dev/shm&rpar;](https://last9.io/blog/how-to-configure-dockers-shared-memory-size-dev-shm)
 - [Amazon SQS Metrics: Monitor, Debug, and Optimize Your Message Queues](https://last9.io/blog/amazon-sqs-metrics)
 - [11 Best Log Monitoring Tools for Developers in 2025](https://last9.io/blog/log-monitoring-tools-for-developers)
-- [Last9 - Dinner with SRE/Devops Leaders](https://last9.io/events/last9-dinner-with-sre-devops-leaders-dubai)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
