@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LangChain Observability: From Zero to Production in 10 Minutes](https://last9.io/blog/langchain-observability)
 - [How to Run Elasticsearch on Kubernetes](https://last9.io/blog/elasticsearch-kubernetes-deployment)
 - [LangChain &amp; LangGraph: The Frameworks Powering Production AI Agents](https://last9.io/blog/langchain-langgraph-the-frameworks-powering-production-ai-agents)
 - [How to Write Logs to a File in Go](https://last9.io/blog/write-logs-to-file)
 - [Logging in Docker Swarm: Visibility Across Distributed Services](https://last9.io/blog/logging-in-docker-swarm)
-- [Prometheus Gauges vs Counters: What to Use and When](https://last9.io/blog/prometheus-gauges-vs-counters)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
