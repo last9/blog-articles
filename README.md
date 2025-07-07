@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Instrument LangChain and LangGraph Apps with OpenTelemetry](https://last9.io/blog/langchain-and-langgraph-instrumentation-guide)
 - [Docker Status Unhealthy: What It Means and How to Fix It](https://last9.io/blog/docker-status-unhealthy-how-to-fix-it)
 - [LangChain Observability: From Zero to Production in 10 Minutes](https://last9.io/blog/langchain-observability)
 - [How to Run Elasticsearch on Kubernetes](https://last9.io/blog/elasticsearch-kubernetes-deployment)
 - [LangChain &amp; LangGraph: The Frameworks Powering Production AI Agents](https://last9.io/blog/langchain-langgraph-the-frameworks-powering-production-ai-agents)
-- [How to Write Logs to a File in Go](https://last9.io/blog/write-logs-to-file)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
