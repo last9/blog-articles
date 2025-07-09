@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Logs from Docker Containers](https://last9.io/blog/how-to-get-logs-from-docker-containers)
 - [How Replicas Work in Kubernetes](https://last9.io/blog/how-replicas-work-in-kubernetes)
 - [Improve Consistency Across Signals with OTel Semantic Conventions](https://last9.io/blog/opentelemetry-semantic-conventions)
 - [Last9 Engineering Leaders Mixer – Gurgaon Edition](https://last9.io/events/last9-engineering-leaders-mixer-gurgaon-edition)
 - [Happy Hour with Last9 – New York Edition](https://last9.io/events/happy-hour-with-last9-new-york-edition)
-- [Prometheus Group By Label: Advanced Aggregation Techniques for Monitoring](https://last9.io/blog/prometheus-group-by-label)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
