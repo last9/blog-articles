@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Grafana Iframe Embedding Right](https://last9.io/blog/how-to-get-grafana-iframe-embedding-right)
 - [Elasticsearch with Python: A Detailed Guide to Search and Analytics](https://last9.io/blog/elasticsearch-python-integration)
 - [What is Log Loss and Cross-Entropy](https://last9.io/blog/understanding-log-loss-and-cross-entropy)
 - [Cloud Log Management: A Developer&#39;s Guide to Scalable Observability](https://last9.io/blog/cloud-log-management)
 - [Troubleshooting LangChain/LangGraph Traces: Common Issues and Fixes](https://last9.io/blog/troubleshooting-langchain-langgraph-traces-issues-and-fixes)
-- [How to Get Logs from Docker Containers](https://last9.io/blog/how-to-get-logs-from-docker-containers)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
