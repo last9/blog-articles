@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kibana Logs: Advanced Query Patterns and Visualization Techniques](https://last9.io/blog/kibana-logs)
 - [Jaeger Metrics: Internal Operations and Service Performance Monitoring](https://last9.io/blog/jaeger-metrics)
 - [Optimize LangChain Performance with Trace Analytics](https://last9.io/blog/optimize-langchain-performance-with-trace-analytics)
 - [How to Get Grafana Iframe Embedding Right](https://last9.io/blog/how-to-get-grafana-iframe-embedding-right)
 - [Elasticsearch with Python: A Detailed Guide to Search and Analytics](https://last9.io/blog/elasticsearch-python-integration)
-- [What is Log Loss and Cross-Entropy](https://last9.io/blog/understanding-log-loss-and-cross-entropy)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
