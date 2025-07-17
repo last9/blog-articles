@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Query and Analyze Logs Visually, Without Writing LogQL](https://last9.io/blog/query-and-analyze-logs-visually-without-writing-logql)
 - [Build Log Automation with Last9&#39;s Query API](https://last9.io/blog/buildin-log-automation-with-last9s-query-api)
 - [Enable Kong Gateway Tracing in 5 Minutes](https://last9.io/blog/enable-kong-gateway-tracing-in-5-minutes)
 - [Kibana Logs: Advanced Query Patterns and Visualization Techniques](https://last9.io/blog/kibana-logs)
 - [Jaeger Metrics: Internal Operations and Service Performance Monitoring](https://last9.io/blog/jaeger-metrics)
-- [Optimize LangChain Performance with Trace Analytics](https://last9.io/blog/optimize-langchain-performance-with-trace-analytics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
