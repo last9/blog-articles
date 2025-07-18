@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Set Up ClickHouse with Docker Compose](https://last9.io/blog/set-up-clickhouse-with-docker-compose)
 - [Stream AWS Metrics to Grafana with Last9 in 10 minutes](https://last9.io/blog/stream-aws-metrics-to-grafana-with-last9-in-10-minutes)
 - [Trace Go Apps Using Runtime Tracing and OpenTelemetry](https://last9.io/blog/trace-go-apps-using-runtime-tracing-and-opentelemetry)
 - [Query and Analyze Logs Visually, Without Writing LogQL](https://last9.io/blog/query-and-analyze-logs-visually-without-writing-logql)
 - [Build Log Automation with Last9&#39;s Query API](https://last9.io/blog/buildin-log-automation-with-last9s-query-api)
-- [Enable Kong Gateway Tracing in 5 Minutes](https://last9.io/blog/enable-kong-gateway-tracing-in-5-minutes)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
