@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Prometheus 3.0 Fixes Resource Attributes for OTel Metrics](https://last9.io/blog/how-prometheus-3-0-fixes-resource-attributes-for-otel-metrics)
 - [How sum_over_time Works in Prometheus](https://last9.io/blog/how-sum_over_time-works-in-prometheus)
 - [Use Telegraf Without the Prometheus Complexity](https://last9.io/blog/use-telegraf-without-the-prometheus-complexity)
 - [Ship Confluent Cloud Observability in Minutes](https://last9.io/blog/ship-confluent-cloud-observability-in-minutes)
 - [How to Set Up Real User Monitoring](https://last9.io/blog/how-to-set-up-real-user-monitoring)
-- [Monitor Nginx with OpenTelemetry Tracing](https://last9.io/blog/monitor-nginx-with-opentelemetry-tracing)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
