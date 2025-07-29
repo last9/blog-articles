@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Loki Metrics Are Disappearing &lpar;And How to Fix It&rpar;](https://last9.io/blog/why-your-loki-metrics-are-disappearing)
 - [Auto-Instrument Your Applications Using OTel Injector](https://last9.io/blog/otel-injector)
 - [DevOps 2.0 Confex &amp; Awards 2025!](https://last9.io/events/devops-2-0-confex-awards-2025)
 - [Meet Last9 at KubeCon IN 2025](https://last9.io/events/meet-last9-at-kubecon-in-2025)
 - [OTel Weaver: Consistent Observability with Semantic Conventions](https://last9.io/blog/otel-weaver-consistent-observability-with-semantic-conventions)
-- [How Prometheus 3.0 Fixes Resource Attributes for OTel Metrics](https://last9.io/blog/how-prometheus-3-0-fixes-resource-attributes-for-otel-metrics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
