@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Application Metrics?](https://last9.io/blog/what-are-application-metrics)
 - [Jaeger Monitoring: Essential Metrics and Alerting for Production Tracing Systems](https://last9.io/blog/jaeger-monitoring)
 - [Why Your Loki Metrics Are Disappearing &lpar;And How to Fix It&rpar;](https://last9.io/blog/why-your-loki-metrics-are-disappearing)
 - [New in OTel: Auto-Instrument Your Apps with the OTel Injector](https://last9.io/blog/otel-injector)
 - [DevOps 2.0 Confex &amp; Awards 2025!](https://last9.io/events/devops-2-0-confex-awards-2025)
-- [Meet Last9 at KubeCon IN 2025](https://last9.io/events/meet-last9-at-kubecon-in-2025)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
