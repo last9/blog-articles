@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 12 LogicMonitor Alternatives for Developers in 2025](https://last9.io/blog/logicmonitor-alternatives)
 - [Top 7 Application Performance Monitoring Tools](https://last9.io/blog/application-performance-monitoring-tools)
 - [Log Format Standards: JSON, XML, and Key-Value Explained](https://last9.io/blog/log-format)
 - [DevOps Leaders Summit &amp; Awards](https://last9.io/events/devops-leaders-summit-awards)
 - [Dine with DevOps IV – Delhi](https://last9.io/events/dine-with-devops-iv-delhi)
-- [DevOps Leaders Summit &amp; Awards 2025](https://last9.io/events/devops-leaders-summit-awards-2025)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
