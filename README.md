@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Service Discovery Problem Every Developer Knows &lpar;But Pretends Doesn&#39;t Exist&rpar;](https://last9.io/blog/launch-week-discover-services)
 - [RubyConf India 2025](https://last9.io/events/rubyconf-india-2025)
 - [Top 12 LogicMonitor Alternatives for Developers in 2025](https://last9.io/blog/logicmonitor-alternatives)
 - [Top 7 Application Performance Monitoring Tools](https://last9.io/blog/application-performance-monitoring-tools)
 - [Log Format Standards: JSON, XML, and Key-Value Explained](https://last9.io/blog/log-format)
-- [DevOps Leaders Summit &amp; Awards](https://last9.io/events/devops-leaders-summit-awards)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
