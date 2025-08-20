@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Apps Are Green. Your Infrastructure Is Dying.](https://last9.io/blog/launch-week-discover-infra-kubernetes-hosts)
 - [A Detailed Guide to Azure Kubernetes Service Monitoring](https://last9.io/blog/azure-kubernetes-service-monitoring)
 - [Your APIs Are Green. Your Background Jobs Are Dying.](https://last9.io/blog/launch-week-discover-jobs)
 - [What is Real User Monitoring](https://last9.io/blog/what-is-real-user-monitoring)
 - [The Service Discovery Problem Every Developer Knows &lpar;But Pretends Doesn&#39;t Exist&rpar;](https://last9.io/blog/launch-week-discover-services)
-- [RubyConf India 2025](https://last9.io/events/rubyconf-india-2025)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
