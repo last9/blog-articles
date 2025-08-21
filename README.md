@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APM Logs: How to Get Started for Faster Debugging](https://last9.io/blog/apm-logs-for-faster-debugging)
 - [From Cloud Native to AI Native: Why Your Observability Stack Needs to Speak Agent](https://last9.io/blog/from-cloud-native-to-ai-native-why-your-observability-stack-needs-to-speak-agent)
 - [Your Apps Are Green. Your Infrastructure Is Dying.](https://last9.io/blog/launch-week-discover-infra-kubernetes-hosts)
 - [A Detailed Guide to Azure Kubernetes Service Monitoring](https://last9.io/blog/azure-kubernetes-service-monitoring)
 - [Your APIs Are Green. Your Background Jobs Are Dying.](https://last9.io/blog/launch-week-discover-jobs)
-- [What is Real User Monitoring](https://last9.io/blog/what-is-real-user-monitoring)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
