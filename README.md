@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7th Edition DevOps Conclave &amp; Awards](https://last9.io/events/7th-edition-devops-conclave-awards)
 - [What is Database Monitoring](https://last9.io/blog/what-is-database-monitoring)
 - [OpenTelemetry API vs SDK: Understanding the Architecture](https://last9.io/blog/opentelemetry-api-vs-sdk)
 - [APM Logs: How to Get Started for Faster Debugging](https://last9.io/blog/apm-logs-for-faster-debugging)
 - [From Cloud Native to AI Native: Why Your Observability Stack Needs to Speak Agent](https://last9.io/blog/from-cloud-native-to-ai-native-why-your-observability-stack-needs-to-speak-agent)
-- [Your Apps Are Green. Your Infrastructure Is Dying.](https://last9.io/blog/launch-week-discover-infra-kubernetes-hosts)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
