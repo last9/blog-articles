@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Single Hub for Telemetry: OpenTelemetry Gateway](https://last9.io/blog/opentelemetry-gateway)
 - [A Practical Guide to Python Application Performance Monitoring&lpar;APM&rpar;](https://last9.io/blog/python-apm-monitoring-performance)
 - [Join Last9 at DMCON Kerala](https://last9.io/events/join-last9-at-dmcon-kerala)
 - [7th Edition DevOps Conclave &amp; Awards](https://last9.io/events/7th-edition-devops-conclave-awards)
 - [What is Database Monitoring](https://last9.io/blog/what-is-database-monitoring)
-- [OpenTelemetry API vs SDK: Understanding the Architecture](https://last9.io/blog/opentelemetry-api-vs-sdk)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
