@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Monitoring Metrics That Improve Cluster Reliability](https://last9.io/blog/kubernetes-monitoring-metrics)
 - [Meet Last9 at AWS Summit Los Angeles 2025](https://last9.io/events/meet-last9-at-aws-summit-los-angeles-2025)
 - [What is APM Tracing?](https://last9.io/blog/what-is-apm-tracing)
 - [A Single Hub for Telemetry: OpenTelemetry Gateway](https://last9.io/blog/opentelemetry-gateway)
 - [A Practical Guide to Python Application Performance Monitoring&lpar;APM&rpar;](https://last9.io/blog/python-apm-monitoring-performance)
-- [Join Last9 at DMCON Kerala](https://last9.io/events/join-last9-at-dmcon-kerala)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
