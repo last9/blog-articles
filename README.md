@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Service Catalog Observability and How Does It Work?](https://last9.io/blog/what-is-service-catalog-observability)
 - [DevOps Summit Singapore 2025](https://last9.io/events/devops-summit-singapore-2025)
 - [India DevOps Show – Delhi](https://last9.io/events/india-devops-show-delhi)
 - [APM for Kubernetes: Monitor Distributed Applications at Scale](https://last9.io/blog/apm-for-kubernetes-monitor-distributed-applications-at-scale)
 - [Kubernetes Monitoring Metrics That Improve Cluster Reliability](https://last9.io/blog/kubernetes-monitoring-metrics)
-- [Meet Last9 at AWS Summit Los Angeles 2025](https://last9.io/events/meet-last9-at-aws-summit-los-angeles-2025)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
