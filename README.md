@@ -6,7 +6,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [DevOps Summit Singapore 2025](https://last9.io/events/devops-summit-singapore-2025)
 - [India DevOps Show – Delhi](https://last9.io/events/india-devops-show-delhi)
 - [APM for Kubernetes: Monitor Distributed Applications at Scale](https://last9.io/blog/apm-for-kubernetes-monitor-distributed-applications-at-scale)
-- [Kubernetes Monitoring Metrics That Improve Cluster Reliability](https://last9.io/blog/kubernetes-monitoring-metrics)
+- [Updated disk monitoring and visible chart PromQL in Discover Hosts](https://last9.io/changelog/updated-disk-monitoring-and-visible-chart-promql-in-hosts)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
