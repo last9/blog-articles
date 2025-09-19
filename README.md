@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Prometheus: Production Patterns That Help You Scale](https://last9.io/blog/aws-prometheus-production-patterns)
 - [What is Asynchronous Job Monitoring?](https://last9.io/blog/what-is-asynchronous-job-monitoring)
 - [Kubernetes Service Discovery Explained with Practical Examples](https://last9.io/blog/kubernetes-service-discovery)
 - [Introducing Real User Monitoring Sessions](https://last9.io/changelog/introducing-real-user-monitoring-sessions)
 - [Background Job Observability Beyond the Queue](https://last9.io/blog/background-job-observability)
-- [What is Service Catalog Observability and How Does It Work?](https://last9.io/blog/what-is-service-catalog-observability)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
