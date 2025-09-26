@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor Kubernetes Hosts with OpenTelemetry](https://last9.io/blog/monitor-kubernetes-hosts-with-opentelemetry)
 - [Key APM Metrics You Must Track](https://last9.io/blog/key-apm-metrics-you-must-track)
 - [How to Connect Jaeger with Your APM](https://last9.io/blog/jaeger-apm)
 - [AWS Prometheus: Production Patterns That Help You Scale](https://last9.io/blog/aws-prometheus-production-patterns)
 - [What is Asynchronous Job Monitoring?](https://last9.io/blog/what-is-asynchronous-job-monitoring)
-- [Kubernetes Service Discovery Explained with Practical Examples](https://last9.io/blog/kubernetes-service-discovery)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
