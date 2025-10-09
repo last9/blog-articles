@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Scale Prometheus APM for Modern Applications](https://last9.io/blog/scale-prometheus-apm)
 - [Observability vs. Visibility: What&#39;s the Difference?](https://last9.io/blog/observability-vs-visibility-whats-the-difference)
 - [OTel Naming Best Practices for Spans, Attributes, and Metrics](https://last9.io/blog/otel-naming-best-practices)
 - [Docker Daemon Logs: How to Find, Read, and Use Them](https://last9.io/blog/docker-daemon-logs)
 - [Top 11 Java APM Tools: A Comprehensive Comparison](https://last9.io/blog/java-apm-tools)
-- [Monitor Kubernetes Hosts with OpenTelemetry](https://last9.io/blog/monitor-kubernetes-hosts-with-opentelemetry)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
