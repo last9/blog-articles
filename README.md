@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [15 PHP APM Tools Worth Using in 2025](https://last9.io/blog/best-php-apm-tools)
 - [How OpenTelemetry Auto-Instrumentation Works](https://last9.io/blog/how-opentelemetry-auto-instrumentation-works)
 - [How to Scale Prometheus APM for Modern Applications](https://last9.io/blog/scale-prometheus-apm)
+- [Query specific log indexes in dashboards and other improvements](https://last9.io/changelog/query-specific-log-indexes-in-dashboards-and-other-improvements)
 - [Observability vs. Visibility: What&#39;s the Difference?](https://last9.io/blog/observability-vs-visibility-whats-the-difference)
-- [OTel Naming Best Practices for Spans, Attributes, and Metrics](https://last9.io/blog/otel-naming-best-practices)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
