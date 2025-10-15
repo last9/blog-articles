@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Last9 Named a Gartner® Cool Vendor in AI for SRE and Observability](https://last9.io/blog/last9-gartner-cool-vendor)
 - [Indonesia DevOps Conference](https://last9.io/events/indonesia-devops-conference)
 - [KubeCon + CloudNativeCon North America 2025](https://last9.io/events/kubecon-25-na)
 - [Choosing the Right APM for Go: 11 Tools Worth Your Time](https://last9.io/blog/apm-tools-for-golang)
 - [15 PHP APM Tools Worth Using in 2025](https://last9.io/blog/best-php-apm-tools)
-- [How OpenTelemetry Auto-Instrumentation Works](https://last9.io/blog/how-opentelemetry-auto-instrumentation-works)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
