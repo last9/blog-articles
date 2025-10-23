@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 11 Ruby APM Tools for 2025: A Performance-Driven Selection](https://last9.io/blog/top-ruby-apm-tools)
 - [Top 9 APM Tools for Node.js Performance Monitoring](https://last9.io/blog/apm-tools-for-node-js-performance-monitoring)
 - [Implement Distributed Tracing with Spring Boot 3](https://last9.io/blog/distributed-tracing-with-spring-boot)
 - [Last9 Named a Gartner® Cool Vendor in AI for SRE and Observability](https://last9.io/blog/last9-gartner-cool-vendor)
 - [Indonesia DevOps Conference](https://last9.io/events/indonesia-devops-conference)
-- [KubeCon + CloudNativeCon North America 2025](https://last9.io/events/kubecon-25-na)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
