@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OTel Updates: Consistent Probability Sampling Fixes Fragmented Traces](https://last9.io/blog/consistent-probability-sampling-fixes-fragmented-traces)
 - [India DevOps Show – Chennai Edition](https://last9.io/events/india-devops-show-chennai-edition)
 - [OpenTelemetry Spans Explained: Deconstructing Distributed Tracing](https://last9.io/blog/opentelemetry-spans-events)
 - [Top 11 Ruby APM Tools for 2025: A Performance-Driven Selection](https://last9.io/blog/top-ruby-apm-tools)
 - [Top 9 APM Tools for Node.js Performance Monitoring](https://last9.io/blog/apm-tools-for-node-js-performance-monitoring)
-- [Implement Distributed Tracing with Spring Boot 3](https://last9.io/blog/distributed-tracing-with-spring-boot)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
