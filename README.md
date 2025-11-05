@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Are AI Guardrails](https://last9.io/blog/what-are-ai-guardrails)
 - [Grafana Tempo: Setup, Configuration, and Best Practices](https://last9.io/blog/grafana-tempo-setup-configuration-and-best-practices)
 - [OTel Updates: Declarative Config — A Steadier Way to Configure OpenTelemetry SDKs](https://last9.io/blog/declarative-config-to-configure-opentelemetry-sdks)
 - [Build your AI SRE Agent](https://last9.io/events/build-your-ai-sre-agent)
 - [Sidecar or Agent for OpenTelemetry: How to Decide](https://last9.io/blog/opentelemetry-sidecar-vs-agent)
-- [OTel Updates: Consistent Probability Sampling Fixes Fragmented Traces](https://last9.io/blog/consistent-probability-sampling-fixes-fragmented-traces)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
