@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Reduce Log Data Costs Without Losing Important Signals](https://last9.io/blog/how-to-reduce-log-data-costs-without-losing-important-signals)
 - [What is AWS Fargate for Amazon ECS?](https://last9.io/blog/what-is-aws-fargate)
 - [OTel Updates: Complex Attributes Now Supported Across All Signals](https://last9.io/blog/complex-attribute-types-in-opentelemetry)
 - [Top 9 Web Application Performance Monitoring Tools for 2025](https://last9.io/blog/top-web-application-performance-monitoring-tools)
 - [Build Your Kubernetes Monitoring Foundation with kube-prometheus-stack](https://last9.io/blog/kube-prometheus-stack)
-- [OTel Updates: OpenTelemetry eBPF Instrumentation &lpar;OBI&rpar; Hits Alpha](https://last9.io/blog/opentelemetry-ebpf-instrumentation)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
