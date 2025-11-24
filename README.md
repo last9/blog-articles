@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Observability Solutions for Full-Fidelity Telemetry](https://last9.io/blog/observability-solutions-for-full-fidelity-telemetry)
 - [Sundown with DevOps - Mumbai Edition](https://last9.io/events/sundown-with-devops-mumbai-edition)
 - [Top 7 Observability Platforms That Auto-Discover Services](https://last9.io/blog/observability-platforms-that-auto-discover-services)
 - [How to Reduce Log Data Costs Without Losing Important Signals](https://last9.io/blog/how-to-reduce-log-data-costs-without-losing-important-signals)
 - [What is AWS Fargate for Amazon ECS?](https://last9.io/blog/what-is-aws-fargate)
-- [OTel Updates: Complex Attributes Now Supported Across All Signals](https://last9.io/blog/complex-attribute-types-in-opentelemetry)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
