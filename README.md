@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OTel Updates: Unroll Processor Now in Collector Contrib](https://last9.io/blog/the-unroll-processor)
 - [9 Monitoring Tools That Deliver AI-Native Anomaly Detection](https://last9.io/blog/monitoring-solutions-that-deliver-ai-native-anomaly-detection)
 - [Instrument Jenkins With OpenTelemetry](https://last9.io/blog/instrument-jenkins-with-opentelemetry)
 - [7 Observability Solutions for Full-Fidelity Telemetry](https://last9.io/blog/observability-solutions-for-full-fidelity-telemetry)
 - [Sundown with DevOps - Mumbai Edition](https://last9.io/events/sundown-with-devops-mumbai-edition)
-- [Top 7 Observability Platforms That Auto-Discover Services](https://last9.io/blog/observability-platforms-that-auto-discover-services)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
