@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [See where your users are with geographic insights](https://last9.io/changelog/see-where-your-users-are-with-geographic-insights)
 - [How to Handle Cloud Monitoring Overload?](https://last9.io/blog/how-to-handle-cloud-monitoring-overload)
 - [OTel Updates: OpenTelemetry Proposes Changes to Stability, Releases, and Semantic Conventions](https://last9.io/blog/opentelemetry-proposes-changes-to-stability-releases-and-semantic-conventions)
 - [How to Track Down the Real Cause of Sudden Latency Spikes](https://last9.io/blog/how-to-track-down-the-real-cause-of-sudden-latency-spikes)
 - [Which Observability Tool Helps with Visibility Without Overspend](https://last9.io/blog/observability-tool-helps-with-visibility-without-overspend)
-- [OTel Updates: Unroll Processor Now in Collector Contrib](https://last9.io/blog/the-unroll-processor)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
