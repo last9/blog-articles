@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Dashboard panel editing, Ask Mode in Traces, and Log Pattern Analysis](https://last9.io/changelog/new-dashboard-panel-editing-ask-mode-in-traces-and-log-pattern-analysis)
 - [OTel Updates: OpenTelemetry Deprecates Zipkin Exporters](https://last9.io/blog/opentelemetry-deprecates-zipkin-exporters)
 - [Last9 integration with TrueFoundry AI Gateway](https://last9.io/blog/last9-integration-with-truefoundry-ai-gateway)
 - [See where your users are with geographic insights](https://last9.io/changelog/see-where-your-users-are-with-geographic-insights)
 - [How to Handle Cloud Monitoring Overload?](https://last9.io/blog/how-to-handle-cloud-monitoring-overload)
-- [OTel Updates: OpenTelemetry Proposes Changes to Stability, Releases, and Semantic Conventions](https://last9.io/blog/opentelemetry-proposes-changes-to-stability-releases-and-semantic-conventions)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
