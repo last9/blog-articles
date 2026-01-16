@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logs vs Metrics: A Practical Guide for Engineers](https://last9.io/blog/logs-vs-metrics)
 - [Podman vs Docker 2026: Security, Performance &amp; Which to Choose](https://last9.io/blog/podman-vs-docker)
 - [Datadog Pricing 2026: Full Cost Breakdown + How to Save 40-90%](https://last9.io/blog/datadog-pricing-all-your-questions-answered)
 - [Why High-Cardinality Metrics Break Everything](https://last9.io/blog/why-high-cardinality-metrics-break)
 - [New Dashboard panel editing, Ask Mode in Traces, and Log Pattern Analysis](https://last9.io/changelog/new-dashboard-panel-editing-ask-mode-in-traces-and-log-pattern-analysis)
-- [OTel Updates: OpenTelemetry Deprecates Zipkin Exporters](https://last9.io/blog/opentelemetry-deprecates-zipkin-exporters)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
