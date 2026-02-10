@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Searchable audit trail, AI assistant in Slack, and tool visibility](https://last9.io/changelog/searchable-audit-trail-ai-assistant-in-slack-and-tool-visibility)
 - [Better Related Logs: Custom Context Range](https://last9.io/changelog/better-related-logs-custom-context-range)
 - [Stop Flying Blind: Synthetic Monitoring, Host heat-maps, and Process-Level Visibility](https://last9.io/blog/stop-flying-blind-synthetic-monitoring-host-heatmaps)
 - [Synthetic monitoring, service maps, and host health heatmaps](https://last9.io/changelog/changelog-january-2026)
 - [High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale](https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse)
-- [Logs vs Metrics: A Practical Guide for Engineers](https://last9.io/blog/logs-vs-metrics)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
