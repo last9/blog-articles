@@ -4,7 +4,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [Better Related Logs: Custom Context Range](https://last9.io/changelog/better-related-logs-custom-context-range)
 - [Stop Flying Blind: Synthetic Monitoring, Host heat-maps, and Process-Level Visibility](https://last9.io/blog/stop-flying-blind-synthetic-monitoring-host-heatmaps)
-- [Changelog : January 2026](https://last9.io/changelog/changelog-january-2026)
+- [Synthetic monitoring, service maps, and host health heatmaps](https://last9.io/changelog/changelog-january-2026)
 - [High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale](https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse)
 - [Logs vs Metrics: A Practical Guide for Engineers](https://last9.io/blog/logs-vs-metrics)
 <!-- BLOG-POST-LIST:END -->
