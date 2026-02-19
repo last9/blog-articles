@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [Traces Are Not Your Business Logic](https://last9.io/blog/traces-are-not-your-business-logic)
 - [Making AI Agents work with Knowledge Graphs](https://last9.io/events/making-ai-agents-work-with-knowledge-graphs)
+- [Adaptive alerts for exceptions](https://last9.io/changelog/adaptive-alerts-for-exceptions)
 - [Searchable audit trail, AI assistant in Slack, and tool visibility](https://last9.io/changelog/searchable-audit-trail-ai-assistant-in-slack-and-tool-visibility)
 - [Better Related Logs: Custom Context Range](https://last9.io/changelog/better-related-logs-custom-context-range)
-- [Stop Flying Blind: Synthetic Monitoring, Host heat-maps, and Process-Level Visibility](https://last9.io/blog/stop-flying-blind-synthetic-monitoring-host-heatmaps)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
