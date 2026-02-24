@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Performance Tuning: A Practical Guide for Production Systems](https://last9.io/blog/database-performance-tuning)
 - [Traces Are Not Your Business Logic](https://last9.io/blog/traces-are-not-your-business-logic)
+- [SQL Query Optimization: Techniques That Actually Improve Performance](https://last9.io/blog/sql-query-optimization)
 - [Making AI Agents work with Knowledge Graphs](https://last9.io/events/making-ai-agents-work-with-knowledge-graphs)
 - [Database Indexing: How It Works, Types, and When to Use It](https://last9.io/blog/database-indexing)
-- [Adaptive alerts for exceptions](https://last9.io/changelog/adaptive-alerts-for-exceptions)
-- [Searchable audit trail, AI assistant in Slack, and tool visibility](https://last9.io/changelog/searchable-audit-trail-ai-assistant-in-slack-and-tool-visibility)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
