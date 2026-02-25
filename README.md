@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Incident Management Software for Engineering Teams &lpar;2026&rpar;](https://last9.io/blog/incident-management-software)
 - [Database Partitioning: Types, Strategies, and When to Use Each](https://last9.io/blog/database-partitioning)
 - [Database Sharding: How It Works and When You Actually Need It](https://last9.io/blog/database-sharding)
 - [Database Performance Tuning: A Practical Guide for Production Systems](https://last9.io/blog/database-performance-tuning)
 - [Traces Are Not Your Business Logic](https://last9.io/blog/traces-are-not-your-business-logic)
-- [SQL Query Optimization: Techniques That Actually Improve Performance](https://last9.io/blog/sql-query-optimization)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
