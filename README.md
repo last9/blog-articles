@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Incident Management Software for Engineering Teams &lpar;2026&rpar;](https://last9.io/blog/incident-management-software)
-- [Database Partitioning: Types, Strategies, and When to Use Each](https://last9.io/blog/database-partitioning)
-- [Database Sharding: How It Works and When You Actually Need It](https://last9.io/blog/database-sharding)
-- [Database Performance Tuning: A Practical Guide for Production Systems](https://last9.io/blog/database-performance-tuning)
-- [Traces Are Not Your Business Logic](https://last9.io/blog/traces-are-not-your-business-logic)
+- [Selectable latency percentile and ECS stopped tasks](https://last9.io/changelog/selectable-latency-percentile-ecs-stopped-tasks-and-dark-mode-login)
+- [Dependent log filters, GraphQL operations in Discover Services, and a leaner services list](https://last9.io/changelog/dependent-log-filters-graphql-operations-in-discover-services-and-a-leaner-services-list)
+- [Starred dashboards, mobile RUM, and notification channel visibility for MCP](https://last9.io/changelog/starred-dashboards-mobile-rum-and-notification-channel-visibility-for-mcp)
+- [Dashboard tags, per-request RUM correlation, and log pattern custom fields](https://last9.io/changelog/dashboard-tags-per-request-rum-correlation-and-log-pattern-custom-fields)
+- [Discover Databases, starting with Postgres](https://last9.io/changelog/discover-databases-and-applications-becomes-rum)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
