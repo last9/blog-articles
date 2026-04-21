@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10,000 GPUs, One TSDB: Cardinality at GPU Scale](https://last9.io/blog/10-000-gpus-one-tsdb-cardinality-at-gpu-scale)
+- [From GPU Silicon to Business Metrics: The 8 Layers of GPU Observability](https://last9.io/blog/from-gpu-silicon-to-business-metrics-the-8-layers-of-gpu-observability)
 - [Selectable latency percentile and ECS stopped tasks](https://last9.io/changelog/selectable-latency-percentile-ecs-stopped-tasks-and-dark-mode-login)
-- [Dependent log filters, GraphQL operations in Discover Services, and a leaner services list](https://last9.io/changelog/dependent-log-filters-graphql-operations-in-discover-services-and-a-leaner-services-list)
-- [Starred dashboards, mobile RUM, and notification channel visibility for MCP](https://last9.io/changelog/starred-dashboards-mobile-rum-and-notification-channel-visibility-for-mcp)
-- [Dashboard tags, per-request RUM correlation, and log pattern custom fields](https://last9.io/changelog/dashboard-tags-per-request-rum-correlation-and-log-pattern-custom-fields)
-- [Discover Databases, starting with Postgres](https://last9.io/changelog/discover-databases-and-applications-becomes-rum)
+- [The GPU Metrics That Actually Matter](https://last9.io/blog/the-gpu-metrics-that-actually-matter)
+- [Your LLM Is Slower Than You Think](https://last9.io/blog/your-llm-is-slower-than-you-think)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
