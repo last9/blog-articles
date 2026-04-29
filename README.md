@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End Trace Propagation Across SQS and Lambda with OpenTelemetry](https://last9.io/blog/sqs-lambda-opentelemetry-trace-propagation)
 - [Metrics Query Builder with PromQL-support](https://last9.io/changelog/metrics-query-builder-with-promql-support)
 - [last9-genai: Closing the Conversation Gap in LLM Observability](https://last9.io/blog/last9-genai-llm-observability-sdk)
 - [How to Exclude Health Check Endpoints from Python OTel Traces](https://last9.io/blog/python-otel-exclude-health-check-traces)
 - [Argo Rollouts Canary Monitoring: Metrics, Gotchas, and Automated Gates with Last9](https://last9.io/blog/argo-rollouts-canary-monitoring-last9)
-- [What is AI SRE? The Complete Guide to AI-Assisted Site Reliability Engineering](https://last9.io/blog/what-is-ai-sre)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
