@@ -2,7 +2,7 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Code OpenTelemetry for Vert.x: One JAR, No Maven, Java 8 Through 21](https://last9.io/blog/vertx-opentelemetry-zero-code-javaagent)
+- [Zero-Code OpenTelemetry for Vert.x](https://last9.io/blog/vertx-opentelemetry-zero-code-javaagent)
 - [Mobile RUM on React Native and Flutter, plus better shared dashboards](https://last9.io/changelog/mobile-rum-on-react-native-and-flutter-plus-better-shared-dashboards)
 - [Kubernetes Monitoring Tools: What Actually Works at Scale](https://last9.io/blog/kubernetes-monitoring-tools-what-actually-works-at-scale)
 - [Stop ECS Containers From Collapsing Into One Service in OpenTelemetry](https://last9.io/blog/ecs-service-name-otel-collector)
