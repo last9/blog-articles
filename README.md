@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Denser dashboards, richer real-user signals, and faster service views](https://last9.io/changelog/denser-dashboards-richer-real-user-signals-and-faster-service-views)
 - [Zero-Code OpenTelemetry for Vert.x](https://last9.io/blog/vertx-opentelemetry-zero-code-javaagent)
 - [Mobile RUM on React Native and Flutter, plus better shared dashboards](https://last9.io/changelog/mobile-rum-on-react-native-and-flutter-plus-better-shared-dashboards)
 - [Kubernetes Monitoring Tools: What Actually Works at Scale](https://last9.io/blog/kubernetes-monitoring-tools-what-actually-works-at-scale)
 - [Stop ECS Containers From Collapsing Into One Service in OpenTelemetry](https://last9.io/blog/ecs-service-name-otel-collector)
-- [How to Test SQS Workflows Locally with LocalStack and OpenTelemetry](https://last9.io/blog/localstack-sqs-testing-opentelemetry)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
