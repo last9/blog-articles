@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [See request and response bodies right in your traces](https://last9.io/changelog/see-request-and-response-bodies-right-in-your-traces)
+- [Mobile RUM: network phase timings, full-display timing, and WebView correlation](https://last9.io/changelog/mobile-rum-network-phase-timings-full-display-timing-and-webview-correlation)
 - [Synthetic Monitoring for uptime checks](https://last9.io/changelog/synthetic-monitoring-for-uptime-checks)
 - [Denser dashboards, richer real-user signals, and faster service views](https://last9.io/changelog/denser-dashboards-richer-real-user-signals-and-faster-service-views)
 - [Zero-Code OpenTelemetry for Vert.x](https://last9.io/blog/vertx-opentelemetry-zero-code-javaagent)
-- [Mobile RUM on React Native and Flutter, plus better shared dashboards](https://last9.io/changelog/mobile-rum-on-react-native-and-flutter-plus-better-shared-dashboards)
-- [Kubernetes Monitoring Tools: What Actually Works at Scale](https://last9.io/blog/kubernetes-monitoring-tools-what-actually-works-at-scale)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
