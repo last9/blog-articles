@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A refreshed AI Assistant, AWS DevOps Agent for MCP, and service names for S3 logs](https://last9.io/changelog/a-refreshed-ai-assistant-aws-devops-agent-for-mcp-and-service-names-for-s3-logs)
 - [See request and response bodies right in your traces](https://last9.io/changelog/see-request-and-response-bodies-right-in-your-traces)
 - [Mobile RUM: network phase timings, full-display timing, and WebView correlation](https://last9.io/changelog/mobile-rum-network-phase-timings-full-display-timing-and-webview-correlation)
 - [Synthetic Monitoring for uptime checks](https://last9.io/changelog/synthetic-monitoring-for-uptime-checks)
 - [Denser dashboards, richer real-user signals, and faster service views](https://last9.io/changelog/denser-dashboards-richer-real-user-signals-and-faster-service-views)
-- [Zero-Code OpenTelemetry for Vert.x](https://last9.io/blog/vertx-opentelemetry-zero-code-javaagent)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
