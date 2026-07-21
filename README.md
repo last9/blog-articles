@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dashboard snapshots, Kubernetes on your services, and streaming AI replies](https://last9.io/changelog/dashboard-snapshots-kubernetes-on-your-services-and-streaming-ai-replies/)
+- [The logs behind every aggregate query, drag-to-zoom alerts, and mobile RUM parity](https://last9.io/changelog/the-logs-behind-every-aggregate-query-drag-to-zoom-alerts-and-mobile-rum-parity/)
+- [Copilot and Codex in Coding Agents, non-aggregate log alerts, and scrollable log lines](https://last9.io/changelog/copilot-and-codex-in-coding-agents-non-aggregate-log-alerts-and-scrollable-log-lines/)
+- [Kubernetes events, a Coding Agents refresh, and richer dashboards](https://last9.io/changelog/kubernetes-events-a-coding-agents-refresh-and-richer-dashboards/)
 - [High Cardinality in ClickHouse at Scale: What Actually Breaks](https://last9.io/blog/clickhouse-high-cardinality-at-scale/)
-- [A revamped way to create and manage alerts across all your telemetry](https://last9.io/changelog/revamped-alerting-create-and-manage-across-telemetry/)
-- [ClickHouse LowCardinality: When It Helps and When It Hurts](https://last9.io/blog/clickhouse-lowcardinality/)
-- [Asia DevOps Conference – Malaysia Edition](https://last9.io/events/asia-devops-conference-kuala-lumpur/)
-- [A refreshed AI Assistant, AWS DevOps Agent for MCP, and service names for S3 logs](https://last9.io/changelog/a-refreshed-ai-assistant-aws-devops-agent-for-mcp-and-service-names-for-s3-logs/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
