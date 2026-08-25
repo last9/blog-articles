@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SLO vs SLA: What&#39;s the Difference?](https://last9.io/blog/slo-vs-sla/)
 - [Filterable RUM sessions, richer alerts, and steadier dashboards](https://last9.io/changelog/filterable-rum-sessions-richer-alerts-and-steadier-dashboards/)
 - [Better Together: Last9 + Altinity](https://last9.io/blog/last9-altinity-partner-clickhouse-observability/)
 - [Dashboard snapshots, Kubernetes on your services, and streaming AI replies](https://last9.io/changelog/dashboard-snapshots-kubernetes-on-your-services-and-streaming-ai-replies/)
 - [The logs behind every aggregate query, drag-to-zoom alerts, and mobile RUM parity](https://last9.io/changelog/the-logs-behind-every-aggregate-query-drag-to-zoom-alerts-and-mobile-rum-parity/)
-- [Copilot and Codex in Coding Agents, non-aggregate log alerts, and scrollable log lines](https://last9.io/changelog/copilot-and-codex-in-coding-agents-non-aggregate-log-alerts-and-scrollable-log-lines/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
