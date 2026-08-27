@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alert acknowledgement, EC2 context in Discover Hosts, and readable alert emails](https://last9.io/changelog/alert-acknowledgement-ec2-context-in-discover-hosts-and-readable-alert-emails/)
 - [SLO vs SLA: What&#39;s the Difference?](https://last9.io/blog/slo-vs-sla/)
-- [Filterable RUM sessions, richer alerts, and steadier dashboards](https://last9.io/changelog/filterable-rum-sessions-richer-alerts-and-steadier-dashboards/)
-- [Better Together: Last9 + Altinity](https://last9.io/blog/last9-altinity-partner-clickhouse-observability/)
-- [Dashboard snapshots, Kubernetes on your services, and streaming AI replies](https://last9.io/changelog/dashboard-snapshots-kubernetes-on-your-services-and-streaming-ai-replies/)
-- [The logs behind every aggregate query, drag-to-zoom alerts, and mobile RUM parity](https://last9.io/changelog/the-logs-behind-every-aggregate-query-drag-to-zoom-alerts-and-mobile-rum-parity/)
+- [Profiling is here, plus per-endpoint health in Applications &lpar;RUM&rpar;](https://last9.io/changelog/profiling-is-here-plus-per-endpoint-health-in-applications-rum/)
+- [Shareable AI Assistant conversations and a clearer Logs and Traces overview](https://last9.io/changelog/shareable-ai-assistant-conversations-and-a-clearer-logs-and-traces-overview/)
+- [Faster exception triage and one-step alerts from logs](https://last9.io/changelog/faster-exception-triage-and-one-step-alerts-from-logs/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
