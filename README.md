@@ -3,10 +3,10 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [6 Cribl Alternatives Worth Evaluating in 2026](https://last9.io/blog/cribl-alternatives/)
+- [Why you should &lpar;not&rpar; build your own observability stack](https://last9.io/blog/build-vs-buy-observability-stack/)
 - [WebView pages as their own views, 14 days of alert history, and a shared environment in Discover](https://last9.io/changelog/webview-pages-as-their-own-views-14-days-of-alert-history-and-a-shared-environment-in-discover/)
 - [Incident Response Automation: A Practical Playbook](https://last9.io/blog/incident-response-automation-playbook/)
 - [Reading Application Error Logs: Nginx, Apache &amp; System Logs](https://last9.io/blog/reading-application-error-logs/)
-- [Alert acknowledgement, EC2 context in Discover Hosts, and readable alert emails](https://last9.io/changelog/alert-acknowledgement-ec2-context-in-discover-hosts-and-readable-alert-emails/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
