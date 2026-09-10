@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Summit Singapore 2026](https://last9.io/events/devops-summit-singapore-2026/)
+- [India DevOps Show Delhi — 12th Edition](https://last9.io/events/india-devops-show-2026-delhi/)
+- [Alert summary cards, and search and filters on every Discover page](https://last9.io/changelog/alert-summary-cards-and-search-and-filters-on-every-discover-page/)
 - [Best AI Observability Tools in 2026: 8 Tools Compared](https://last9.io/blog/best-ai-observability-tools-2026/)
 - [Cloud Cost Management for Observability: A Practical Guide](https://last9.io/blog/cloud-cost-management-for-observability/)
-- [6 Cribl Alternatives Worth Evaluating in 2026](https://last9.io/blog/cribl-alternatives/)
-- [Why you should &lpar;not&rpar; build your own observability stack](https://last9.io/blog/build-vs-buy-observability-stack/)
-- [WebView pages as their own views, 14 days of alert history, and a shared environment in Discover](https://last9.io/changelog/webview-pages-as-their-own-views-14-days-of-alert-history-and-a-shared-environment-in-discover/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
