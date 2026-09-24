@@ -3,10 +3,10 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [DevOps Summit Singapore 2026](https://last9.io/events/devops-summit-singapore-2026/)
+- [AI Agent Observability: What to Trace and What It Catches](https://last9.io/blog/ai-agent-observability-best-practices/)
 - [Rails Performance Monitoring: What to Watch and Why It Slows Down](https://last9.io/blog/rails-performance-monitoring/)
 - [India DevOps Show Delhi — 12th Edition](https://last9.io/events/india-devops-show-2026-delhi/)
 - [PHP Performance Monitoring: What to Watch and Why It Slows Down](https://last9.io/blog/php-performance-monitoring/)
-- [Alert summary cards, and search and filters on every Discover page](https://last9.io/changelog/alert-summary-cards-and-search-and-filters-on-every-discover-page/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
