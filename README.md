@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace Pricing Explained &lpar;2026&rpar;: Rates, DPS and Real Costs](https://last9.io/blog/dynatrace-pricing/)
 - [Best Observability Tools in 2026: 8 Platforms Compared](https://last9.io/blog/best-observability-tools/)
 - [DevOps Summit Singapore 2026](https://last9.io/events/devops-summit-singapore-2026/)
 - [AI Agent Observability: What to Trace and What It Catches](https://last9.io/blog/ai-agent-observability-best-practices/)
 - [Rails Performance Monitoring: What to Watch and Why It Slows Down](https://last9.io/blog/rails-performance-monitoring/)
-- [SRE Automation Tools: What to Automate and Which Tools Help](https://last9.io/blog/sre-automation-tools/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
