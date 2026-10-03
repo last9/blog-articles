@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA DCGM Exporter: Setup and GPU Metrics Guide](https://last9.io/blog/dcgm-exporter/)
 - [Transform, map, and split data in dashboard panels](https://last9.io/changelog/transform-map-and-split-data-in-dashboard-panels/)
 - [Dynatrace Pricing Explained &lpar;2026&rpar;: Rates, DPS and Real Costs](https://last9.io/blog/dynatrace-pricing/)
 - [Error Budgets: How to Calculate and Alert on Burn Rate](https://last9.io/blog/error-budget/)
 - [Best Observability Tools in 2026: 8 Platforms Compared](https://last9.io/blog/best-observability-tools/)
-- [Grafana Cloud Pricing Explained &lpar;2026&rpar;: What Teams Pay](https://last9.io/blog/grafana-cloud-pricing/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
