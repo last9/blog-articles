@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HAProxy Monitoring: Stats, Prometheus Metrics and Alerts](https://last9.io/blog/haproxy-monitoring/)
 - [ClickHouse Monitoring: Key Metrics, System Tables and Alerts](https://last9.io/blog/clickhouse-monitoring/)
+- [GKE Monitoring: Metrics, Packages and Alerts](https://last9.io/blog/gke-monitoring/)
 - [Apache Spark Monitoring: Spark UI, Metrics and Alerts](https://last9.io/blog/apache-spark-monitoring/)
 - [Multi-Cloud Monitoring: How to Watch AWS, Azure and GCP Together](https://last9.io/blog/multi-cloud-monitoring/)
-- [NVIDIA DCGM Exporter: Setup and GPU Metrics Guide](https://last9.io/blog/dcgm-exporter/)
-- [Transform, map, and split data in dashboard panels](https://last9.io/changelog/transform-map-and-split-data-in-dashboard-panels/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
