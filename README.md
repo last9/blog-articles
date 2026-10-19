@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Functions Monitoring: Metrics, Logs and OpenTelemetry](https://last9.io/blog/azure-functions-monitoring/)
 - [Logs panel in dashboards and Slack mention picker](https://last9.io/changelog/logs-panel-in-dashboards-and-slack-mention-picker/)
+- [7 CloudWatch Alternatives for AWS Monitoring in 2026](https://last9.io/blog/cloudwatch-alternatives/)
 - [7 Sumo Logic Alternatives Worth Evaluating in 2026](https://last9.io/blog/sumo-logic-alternatives/)
 - [AWS EKS Monitoring: Control Plane, Nodes and Pod IPs](https://last9.io/blog/eks-monitoring/)
-- [HAProxy Monitoring: Stats, Prometheus Metrics and Alerts](https://last9.io/blog/haproxy-monitoring/)
-- [Honeycomb Pricing Explained &lpar;2026&rpar;: Events, Tiers and Real Costs](https://last9.io/blog/honeycomb-pricing/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
