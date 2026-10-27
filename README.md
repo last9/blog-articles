@@ -5,8 +5,8 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 - [Postgres query activity and logs in Host Details](https://last9.io/changelog/postgres-query-activity-and-logs-in-host-details/)
 - [Service Mesh Observability: Istio, Linkerd and Envoy Metrics](https://last9.io/blog/service-mesh-observability/)
 - [Live Overview, plus Last9 AI knowledge and custom MCPs](https://last9.io/changelog/live-overview-plus-last9-ai-knowledge-and-custom-mcps/)
+- [CI/CD Pipeline Observability: GitHub Actions, Jenkins and ArgoCD](https://last9.io/blog/ci-cd-observability/)
 - [MCP Server Monitoring: Tracing Tool Calls with OpenTelemetry](https://last9.io/blog/mcp-server-monitoring/)
-- [Prometheus Blackbox Exporter: Setup, Probes and Alerts](https://last9.io/blog/prometheus-blackbox-exporter/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
