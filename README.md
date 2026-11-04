@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wide Events vs Metrics, Logs and Traces: What Observability 2.0 Costs](https://last9.io/blog/wide-events-vs-metrics-logs-traces-cost/)
+- [Data Residency in Observability: A Security Review for Your Own Cloud](https://last9.io/blog/byoc-security-review-data-stays-in-your-cloud/)
+- [Dashboard threshold styles and Retry on failed loads](https://last9.io/changelog/dashboard-threshold-styles-and-retry-on-failed-loads/)
 - [Correlating Logs, Traces and Metrics to Find Root Cause](https://last9.io/blog/correlate-logs-traces-metrics-for-faster-root-cause/)
 - [Vault, Consul and Nomad Monitoring: Key Metrics and Setup](https://last9.io/blog/hashicorp-vault-consul-nomad-monitoring/)
-- [Postgres query activity and logs in Host Details](https://last9.io/changelog/postgres-query-activity-and-logs-in-host-details/)
-- [Service Mesh Observability: Istio, Linkerd and Envoy Metrics](https://last9.io/blog/service-mesh-observability/)
-- [Live Overview, plus Last9 AI knowledge and custom MCPs](https://last9.io/changelog/live-overview-plus-last9-ai-knowledge-and-custom-mcps/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
