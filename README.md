@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dashboard Permissions: Stop Accidental Edits in Last9](https://last9.io/blog/dashboard-permissions-edit-locks-and-rollback/)
 - [Lock dashboards and see runtime metrics on spans](https://last9.io/changelog/lock-dashboards-and-see-runtime-metrics-on-spans/)
 - [Verify AI Generated Code in Production with Traces, Metrics and Logs](https://last9.io/blog/verify-ai-generated-code-with-production-observability/)
 - [Fullscreen dashboards and Metrics Query Library](https://last9.io/changelog/fullscreen-dashboards-and-metrics-query-library/)
 - [Automated Alert Triage: Route Alerts to the Root-Cause Team](https://last9.io/blog/automated-alert-triage-root-cause-team/)
-- [Wide Events vs Metrics, Logs and Traces: What Observability 2.0 Costs](https://last9.io/blog/wide-events-vs-metrics-logs-traces-cost/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
