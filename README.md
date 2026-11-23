@@ -2,11 +2,11 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Security for Coding Agents: Keep Secrets Out of Transcripts](https://last9.io/blog/llm-security-coding-agents-transcripts/)
 - [Time Series Chart Design for Dense Observability Dashboards](https://last9.io/blog/time-series-chart-dashboard-design/)
 - [Root Cause Analysis in Software Starts on the Service Page](https://last9.io/blog/root-cause-analysis-in-software-service-overview-metrics/)
 - [What Is Telemetry? Definition, Data Types, and Observability](https://last9.io/blog/what-is-telemetry/)
 - [Dashboard Permissions: Stop Accidental Edits in Last9](https://last9.io/blog/dashboard-permissions-edit-locks-and-rollback/)
-- [Lock dashboards and see runtime metrics on spans](https://last9.io/changelog/lock-dashboards-and-see-runtime-metrics-on-spans/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
