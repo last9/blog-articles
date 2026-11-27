@@ -4,9 +4,9 @@ All the [Last9 blog](https://last9.io/blog) articles. [Subscribe](https://last9.
 <!-- BLOG-POST-LIST:START -->
 - [Hybrid Cloud Monitoring: On-Prem, Cloud and Serverless](https://last9.io/blog/hybrid-cloud-monitoring/)
 - [Mainframe Observability: Trace Legacy Backends with OpenTelemetry](https://last9.io/blog/mainframe-observability-opentelemetry/)
+- [Per-request RUM traces and trace IDs in webhooks](https://last9.io/changelog/per-request-rum-traces-and-trace-ids-in-webhooks/)
 - [LLM Security for Coding Agents: Keep Secrets Out of Transcripts](https://last9.io/blog/llm-security-coding-agents-transcripts/)
 - [Time Series Chart Design for Dense Observability Dashboards](https://last9.io/blog/time-series-chart-dashboard-design/)
-- [Root Cause Analysis in Software Starts on the Service Page](https://last9.io/blog/root-cause-analysis-in-software-service-overview-metrics/)
 <!-- BLOG-POST-LIST:END -->
 - [Influx vs. Prometheus](https://last9.io/blog/prometheus-vs-influxdb/)
 - [Prometheus Alternatives](https://last9.io/blog/prometheus-alternatives/)
